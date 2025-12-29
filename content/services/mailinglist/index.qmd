@@ -1,24 +1,23 @@
 ---
-title: "LOD for Humanities and Social Sciences"
+title: "Mailing List"
 author:
-  - name: Stephen Hart
-    email: stephen.hart@unibe.ch
-    orcid: 0009-0003-6556-5512
-    affiliation: University of Bern
+  - name: Tobias Hodel
 categories: [Services]
 ---
 
-The DH at the University of Bern maintains and supports Linked Open Data Services. WissKI is a collaborative information system that allows researchers to structure, link, and analyse data. Its innovative visualisation tools promote the sharing and dissemination of research data.
 
-We host, maintain, and advise on all things LOD.
+Would you like to receive information about Bern DH by email?
 
-## Services
+You can sign up to our mailing list to receive news about digital humanities—particularly in Bern, but also beyond—and of course, you can also send your own contributions.
+Start discussions, help shape the content, or simply read along.
 
--   Advice and support on using WissKI and Logre
--   Provision of tools for semantic data modelling
--   support with publishing and analysing research data
+To register
+
+    UNIBE internal: listserv.unibe.ch/mailman/listinfo/dh.wbkolleg
+    External: dh.wbkolleg-join@lists.unibe.ch
+
 
 ## Contact
 
-Stephen Hart\
-[stephen.hart\@unibe.ch](mailto:stephen.hart@unibe.ch)
+Christa Schneider\
+[christa.schneider\@unibe.ch](mailto:christa.schneider@unibe.ch)
