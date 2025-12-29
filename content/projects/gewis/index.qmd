@@ -1,0 +1,51 @@
+---
+title: "Linked Data & Relational Databases – Grounded Knowledge (GeWiS)"
+subtitle: "Conveying, connecting, and preserving grounded knowledge"
+author:
+  - name: "Digital Humanities, University of Bern"
+type: "Research Project"
+status: ongoing
+tags: [Linked Data, Relational Databases, Knowledge Graphs, Digital Humanities]
+categories:
+- Project
+other-links:
+  - text: "Project page (German)"
+    href: "https://www.dh.unibe.ch/forschung/linked_data__relationale_datenbanken_gewis/index_ger.html"
+  - text: "Project page (English)"
+    href: "https://www.dh.unibe.ch/research/linked_data__relational_databases_gewis/index_eng.html"
+---
+
+![](gewis_teaser.jpg){fig-alt="GeWiS – Linked Data and Relational Databases"}
+
+## Linked Data & Relational Databases: Grounded Knowledge (GeWiS)
+
+The **GeWiS project** (“Grounded Knowledge”) investigates how **relational databases and linked data approaches** can be combined to model, preserve, and interlink knowledge from the humanities in a sustainable and reusable way.
+
+The project focuses on the conceptual and technical challenges of connecting heterogeneous research databases while maintaining their scholarly depth and semantic precision.
+
+GeWiS brings together multiple humanities projects at the University of Bern and explores how structured data can be made interoperable, extensible, and reusable across disciplinary boundaries.
+
+## Project Focus
+
+The project addresses:
+
+- modeling humanities data using relational and linked data approaches  
+- sustainable data structures for long-term research use  
+- interoperability between heterogeneous research databases  
+- conceptual modeling of complex cultural and historical knowledge  
+- data reuse in digital humanities infrastructures  
+
+## Participating Projects
+
+The project connects several major humanities databases, including:
+
+- Swiss Theatre and Dance Encyclopedia  
+- Swiss Music Encyclopedia  
+- Digital Sumerian Lexicon  
+- Repertorium Academicum  
+
+## Research Context
+
+GeWiS is conducted at the **University of Bern** and brings together expertise from Digital Humanities, History, Archaeology, Musicology, and Theatre Studies.
+
+The project contributes to ongoing research on **linked open data, semantic modeling, and sustainable digital research infrastructures** in the humanities.

@@ -1,0 +1,28 @@
+---
+title: "Text Generator for Style Imitation"
+subtitle: "Generating texts in the style of Robert Walser and Emmy Hennings"
+author:
+ - Tobias Hodel
+type: "Digital Tool"
+status: ongoing
+tags: [AI, Text Generation, Machine Learning, Style Imitation, NLP]
+categories:
+- Project
+- Digital Humanities
+other-links:
+  - text: "Project page (German)"
+    href: "https://www.dh.unibe.ch/forschung/textgenerator_zur_stilimitation/index_ger.html"
+  - text: "Exhibition: ‘Aufgeschrieben. Stift, Taste, Spracherkennung’ (Swiss National Library)"
+    href: "https://www.nationalbibliothek.ch/de/ausstellung/aufgeschrieben"
+---
+
+This project explored how **machine-learning language models** can generate short texts that *approximate the writing style* of specific authors.
+
+For the Swiss National Library exhibition **“Aufgeschrieben. Stift, Taste, Spracherkennung”**, two separate language models were trained:
+
+- one on historical texts by **Robert Walser**
+- one on historical texts by **Emmy Hennings**
+
+In the exhibition, visitors could select an author and complete a prompt such as *“Today I’m writing about …”* with a single word. The system then fed the prompt to the chosen model and generated a continuation—often extending the input into one or more sentences.
+
+The experiment demonstrates, in an accessible way, how training data shapes a model’s vocabulary and syntax, and how “style imitation” depends on both the underlying corpus and the user’s prompt. It is intended for **research communication and teaching**, and encourages critical discussion about authorship, originality, and the limits of generative AI in the humanities.
