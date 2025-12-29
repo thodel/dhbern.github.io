@@ -1,22 +1,21 @@
 ---
-title: "Bundesratsprotokolle"
-subtitle: "Kooperationsprojekt Aufbereitung der Schweizerischen Bundesratsprotokolle"
+title: "The Flow"
+subtitle: "From Deep-Learning to Digital Analysis and their Role in the Humanities Creating, Evaluating, and Critiquing Workflows for Historical Corpora"
 author: 
- - David Schoch
-type: "Digitale Edition"
+ - Tobias Hodel
+type: "Research in Machine Learning and Artificial Intelligence"
 status: active
-tags: [HTR, OCR]
+tags: [HTR, NLP, NER, Visualization]
 categories:
 - Project
-- Bundesratsprotokolle
+- Cooperation
+- Tower Books
 ---
 
-Ziel des Projekts ist die Aufbereitung der handschriftlichen Bundesratsprotokolle (1848-1903) um einen niederschwelligen Zugriff mittels eigener Suchoberfläche zu schaffen. Die automatische Erkennung und Aufbereitung von handschriftlichem Material ist seit wenigen Jahren mit guter Qualität möglich.
+Historical research increasingly makes use of digitization, benefiting from advancements in Handwritten Text Recognition and Natural Language Processing. This is where The Flow comes in and aims to promote the use of digital methods by developing a workflow that can be used by historians without expertise in information science and coding.
 
-Die handschriftlich verfassten Bundesratsprotokolle der Jahre 1848 bis 1903 liegen zwar als Digitalisate vor (siehe: [www.amtsdruckschriften.bar.admin.ch](https://www.amtsdruckschriften.bar.admin.ch/)), sie sind jedoch nur schwer über handschriftliche Register und Sitzungsnummern suchbar. Im Rahmen des Projekts werden 150'000 Seiten der Bundesratsprotokolle segmentiert ([p2pala](https://github.com/lquirosd/P2PaLA/) und [citlab advanced layout analysis](https://github.com/CITlabRostock)) und mittels Texterkennung ([Pylaia](https://github.com/jpuigcerver/PyLaia)) aufbereitet. Der gesamte Prozess läuft in [Transkribus](https://transkribus.eu/Transkribus/) und wird in eine Such- und Blätteroberfläche eingespiesen.
+The Flow, running from 2023 to 2026, strives to create standardized digital workflows using existing technology, facilitating easier digital work with premodern historical sources.
 
-Der Zugang zu den erkannten Dokumenten ist über das Bundesarchiv möglich: [www.chgov.bar.admin.ch/search](https://www.chgov.bar.admin.ch/search).
+The Flow is a joint project of the DH departments of the Universities of Bern and Bielefeld and the Research Centre for Hanse and Baltic History in Lübeck. The project is funded by the Swiss National Science Foundation (SNF) and the German Research Foundation (DFG).
 
-Das Projekt befindet sich im Abschluss, siehe dazu die [Medienmitteilung des Bundesarchivs](https://www.bar.admin.ch/bar/de/home/ueber-uns/Medienmitteilungen.msg-id-87028.html) vom 3.2.2022.
-
-Das Projekt ist eine Kooperation des Schweizerischen Bundesarchivs und der Digital Humanities. Die Texterkennung erfolgt im Rahmen der Mitgliedschaft in der READ Kooperative.
+For more information see the of,ficial webpage: [The Flow](https://www.flow-project.net/)
