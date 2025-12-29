@@ -20,7 +20,6 @@ other-links:
     href: "Digitale_Sammlungen_Flyer.pdf"
   - text: "Download: Digitale_Sammlungen_Flyer.png"
     href: "Digitale_Sammlungen_Flyer.png"
-    href: "https://www.dh.unibe.ch/forschung/workshops_und_talks/digitale_sammlungen/index_ger.html"
 ---
 
 This event fostered interdisciplinary exchange on digital art collections from the perspectives of museums, research, and mediation/outreach.
