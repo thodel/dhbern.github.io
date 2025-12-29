@@ -18,7 +18,6 @@ other-links:
   - text: "Event website"
   - text: "Download: DH_Informations-undKartendesign_HS22_ger.pdf"
     href: "DH_Informations-undKartendesign_HS22_ger.pdf"
-    href: "https://www.dh.unibe.ch/forschung/workshops_und_talks/informations__und_kartendesign_fuer_geisteswissenschaftler_innen/index_ger.html"
 ---
 
 Basic skills in information and map design support critical reading of data visualisations and help present research clearly and convincingly.
