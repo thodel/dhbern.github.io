@@ -7,7 +7,7 @@ categories:
 - Project
 ---
 
-![](chludens-logo.png){fig-align="center" width=50% fig-alt="CH-Ludens Logo"}
+![](chludens-logo.png){fig-align="left" width=25% fig-alt="CH-Ludens Logo"}
 
 CH LUDENS looks at a vibrant game design and development scene in the pre-Internet age. For decades, digital games were programmed in Switzerland in niches, but also with commercial success. They bear witness to many sub-scenes and a society changing through digitization.
 
