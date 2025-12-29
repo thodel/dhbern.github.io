@@ -4,7 +4,7 @@ subtitle: "Kooperationsprojekt Aufbereitung der Schweizerischen Bundesratsprotok
 author: 
  - David Schoch
 type: "Digitale Edition"
-status: active
+status: archived
 tags: [HTR, OCR]
 categories:
 - Project
