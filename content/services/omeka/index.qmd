@@ -1,0 +1,30 @@
+---
+title: "OMEKA S"
+subtitle: "Publishing digital exhibitions, texts, and images with standards and ontologies"
+author:
+  - name: "Digital Humanities, University of Bern"
+type: "Service"
+status: ongoing
+tags: [Omeka S, Exhibitions, Collections, Linked Data, Ontologies]
+categories:
+- Service
+other-links:
+  - text: "Service page (English)"
+    href: "https://www.dh.unibe.ch/services/omeka_s/index_eng.html"
+  - text: "Omeka (official website)"
+    href: "https://omeka.org/"
+---
+
+The Digital Humanities unit at the University of Bern operates its own **Omeka S server**, which is available to all interested parties at the university.
+
+**Omeka S** is an open-source content management system for publishing humanities content such as **digital exhibitions, texts, and images**. It supports the conscious use of **standards and ontologies**, making it well suited for projects that want to curate collections while keeping an eye on interoperability and reusable metadata.
+
+## How to get access
+
+You can request your own **subpage / site** at any time by emailing the Digital Humanities team.
+
+## Support and training
+
+**Introductions to Omeka S** are offered on demand (e.g., short onboarding sessions or project-specific guidance).
+
+If you would like to use Omeka S for a course, a student project, or a research project, please get in touch and briefly describe your intended use.
