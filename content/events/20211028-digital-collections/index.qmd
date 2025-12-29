@@ -15,12 +15,10 @@ author:
         country: "Switzerland"
     role: "Organiser"
 other-links:
-  - text: "Event website"
   - text: "Download: Digitale_Sammlungen_Flyer.pdf"
     href: "Digitale_Sammlungen_Flyer.pdf"
-  - text: "Download: Digitale_Sammlungen_Flyer.png"
-    href: "Digitale_Sammlungen_Flyer.png"
 ---
+![Flyer "Digitale Sammlungen"](Digitale_Sammlungen_Flyer.png)
 
 This event fostered interdisciplinary exchange on digital art collections from the perspectives of museums, research, and mediation/outreach.
 The main event took place online on two afternoons:
