@@ -15,8 +15,7 @@ author:
         country: "Switzerland"
     role: "Organiser"
 other-links:
-  - text: "Event website"
-  - text: "Download: DH_Informations-undKartendesign_HS22_ger.pdf"
+  - text: "Download Program: DH_Informations-undKartendesign_HS22_ger.pdf"
     href: "DH_Informations-undKartendesign_HS22_ger.pdf"
 ---
 
