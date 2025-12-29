@@ -20,9 +20,3 @@ Der Zugang zu den erkannten Dokumenten ist über das Bundesarchiv möglich: [ww
 Das Projekt befindet sich im Abschluss, siehe dazu die [Medienmitteilung des Bundesarchivs](https://www.bar.admin.ch/bar/de/home/ueber-uns/Medienmitteilungen.msg-id-87028.html) vom 3.2.2022.
 
 Das Projekt ist eine Kooperation des Schweizerischen Bundesarchivs und der Digital Humanities. Die Texterkennung erfolgt im Rahmen der Mitgliedschaft in der READ Kooperative.
-
-[David Schoch, B. A.](https://www.dh.unibe.ch/forschung/digitale_editionen/aufbereitung_bundesratsprotokolle/index_ger.html#)
-
-[ ](https://www.dh.unibe.ch/forschung/digitale_editionen/aufbereitung_bundesratsprotokolle/index_ger.html#gallery-modal_e1379253)
-
-[ ](https://www.dh.unibe.ch/forschung/digitale_editionen/aufbereitung_bundesratsprotokolle/index_ger.html#gallery-modal_e1379253)[ ](https://readcoop.eu/)
