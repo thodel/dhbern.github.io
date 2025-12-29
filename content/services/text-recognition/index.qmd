@@ -1,43 +1,36 @@
 ---
-title: Handwriting and Text Recognition with Transkribus
+title: Handwriting and Text Recognition
 author: "Digital Humanities"
 categories: [Services]
 ---
+The Digital Humanities at the University of Bern offers different solutions for text recognition
 
-[Transkribus](https://www.transkribus.org/) is an AI-powered platform for the automated recognition and transcription of handwritten and historical documents. It is widely used in the humanities and archival sciences to digitize and make accessible historical texts. The University of Bern supports researchers by subsidizing the use of the tool and providing training and workshops.
+## TrOCR
+For large scale data processing (e.g. within the FLOW project), we use [Transformer OCR](https://github.com/microsoft/unilm/tree/master/trocr).
+For this we provide support on demand and publish our models open source: [huggingface.co/dh-unibe/models](https://huggingface.co/dh-unibe/models).
 
-## What is Transkribus?
+## eScriptorium
+[eScriptorium](https://escriptorium.readthedocs.io/en/latest/) is a web application offering a workspace to manage the various steps of a transcription campaign.
+
+eScriptorium is open source but needs to be deployed on a server infrastructure.
+For the FLOW-project, the University of Bielefeld offers an eScriptorium instance.
+
+Please get in touch if you would like to use eScriptorium.
+
+
+## Transkribus
+[Transkribus](https://www.transkribus.org/) is an machine learning-based platform for the automated recognition and transcription of handwritten and historical documents. 
+It is widely used in the humanities and archives to digitize and make accessible historical texts. 
+
+The University of Bern (through the Walter Benjamin Kolleg) is member of the READ Cooperative, which is responsible for the maintenance of Transkribus.
 
 Transkribus enables users to:
-
 -   **Automatically transcribe handwritten documents** using pre-trained AI models or custom-trained models tailored to specific handwriting styles.
 -   **Manually transcribe and correct texts** within its user-friendly interface.
 -   **Train custom AI models** to recognize specific handwriting, which is particularly useful for unique or challenging scripts.
 -   **Search and annotate documents**, facilitating detailed analysis and research.
 -   **Publish collections online** through [Transkribus Sites](https://www.transkribus.org/sites), making them accessible to a broader audience.
 
-## Use Cases
-
-Transkribus is suitable for:
-
--   **Historical research**: Transcribing manuscripts, letters, and diaries to facilitate analysis.
--   **Genealogical studies**: Deciphering family records and historical documents.
--   **Academic projects**: Assisting in the creation of digital editions and scholarly publications.
--   **Cultural heritage preservation**: Digitizing and preserving archival materials for future generations.
-
-## Services
-
--   Introduction to the use of Transkribus
--   Support with text recognition for historical documents
--   Organization of workshops on advanced features (e.g., PyLaia training)
-
-## Getting Started
-
-To begin using Transkribus:
-
-1.  Visit the [Transkribus website](https://www.transkribus.org/) and create an account.
-2.  Download the [Transkribus Expert Client](https://readcoop.eu/Transkribus/download/) or use the web-based [Transkribus Lite](https://transkribus.ai/) for manual transcription.
-3.  Explore available [public AI models](https://www.transkribus.org/models/) or consider training a custom model for your specific needs.
 
 ## Contact
 
