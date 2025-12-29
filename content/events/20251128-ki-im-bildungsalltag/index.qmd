@@ -15,12 +15,10 @@ author:
         country: "Switzerland"
     role: "Organiser"
 other-links:
-  - text: "Event website"
   - text: "Download: KI_als_Bildungsrevolution-Pfiffner-HANDOUT_ger.pdf"
     href: "KI_als_Bildungsrevolution-Pfiffner-HANDOUT_ger.pdf"
   - text: "Download: KI-Referat-RogerMader_ger.pdf"
     href: "KI-Referat-RogerMader_ger.pdf"
-    href: "https://www.dh.unibe.ch/forschung/workshops_und_talks/ki_im_bildungsalltag_an_mittel__und_hochschulen/index_ger.html"
 ---
 
 Artificial intelligence is already part of everyday life in schools and universities. This event discusses how AI tools can support learning and teaching—and where their technical, legal, and ethical limits lie.
@@ -29,7 +27,6 @@ Topics include:
 - ethical and legal questions
 - how required competencies may change for pupils and students
 - perspectives on the future of education and AI
-For the full programme and materials, see the event website.
 
 ## Downloads
 - [Download KI_als_Bildungsrevolution-Pfiffner-HANDOUT_ger.pdf](KI_als_Bildungsrevolution-Pfiffner-HANDOUT_ger.pdf){download}
