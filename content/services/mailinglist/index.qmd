@@ -13,8 +13,8 @@ Start discussions, help shape the content, or simply read along.
 
 To register
 
-    UNIBE internal: listserv.unibe.ch/mailman/listinfo/dh.wbkolleg
-    External: dh.wbkolleg-join@lists.unibe.ch
+    UNIBE internal: [listserv.unibe.ch/mailman/listinfo/dh.wbkolleg](https://listserv.unibe.ch/mailman/listinfo/dh.wbkolleg)
+    External: [dh.wbkolleg-join@lists.unibe.ch](mailto:dh.wbkolleg-join@lists.unibe.ch)
 
 
 ## Contact
