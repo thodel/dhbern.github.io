@@ -1,21 +1,17 @@
 ---
-title: "The Flow"
-subtitle: "From Deep-Learning to Digital Analysis and their Role in the Humanities Creating, Evaluating, and Critiquing Workflows for Historical Corpora"
+title: "Economies of Space"
+subtitle: "Practices, Discourses and Actors on the Basel Real Estate Market (1400-1700)"
 author: 
  - Tobias Hodel
-type: "Research in Machine Learning and Artificial Intelligence"
+type: "Application of Text Recognition, Named Entities and Event Extraction"
 status: active
-tags: [HTR, NLP, NER, Visualization]
+tags: [HTR, NLP, NER, Geo-Visualization]
 categories:
 - Project
 - Cooperation
-- Tower Books
+- Historisches Grundbuch Basel
 ---
 
-Historical research increasingly makes use of digitization, benefiting from advancements in Handwritten Text Recognition and Natural Language Processing. This is where The Flow comes in and aims to promote the use of digital methods by developing a workflow that can be used by historians without expertise in information science and coding.
+The project uses the example of Basel to research the management of urban real estate. The interest is directed towards economic discourses and practices as well as actors, whereby the analysis takes place in the perspective of a longue durée of 300 years. This is made possible by the use of digital technologies, AI-based methods to access data and computer-assisted evaluation procedures with which the Historical Land Register of the City of Basel (HGB) is processed. This makes it possible to combine innovative methods with tried and tested approaches in order to address historical research questions: machine evaluations complement each other with case studies that analyse economic practices and their linguistic repertoires down to the micro level of individual transactions and the actors involved. In this way, results and procedures emerge that are meaningful far beyond the individual case.
 
-The Flow, running from 2023 to 2026, strives to create standardized digital workflows using existing technology, facilitating easier digital work with premodern historical sources.
-
-The Flow is a joint project of the DH departments of the Universities of Bern and Bielefeld and the Research Centre for Hanse and Baltic History in Lübeck. The project is funded by the Swiss National Science Foundation (SNF) and the German Research Foundation (DFG).
-
-For more information see the of,ficial webpage: [The Flow](https://www.flow-project.net/)
+For more information see the official webpage: [UNIBAS: Ökonomien des Raums](https://dg.philhist.unibas.ch/de/bereiche/mittelalter/forschung/oekonomien-des-raums/)
