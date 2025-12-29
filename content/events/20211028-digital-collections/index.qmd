@@ -1,0 +1,29 @@
+    ---
+    title: "Digital collections: museum – research – mediation"
+    subtitle: "Interdisciplinary exchange on digital art collections (online event)"
+    event-date: "2021-10-28"
+    date: "2025-12-29"
+    categories:
+      - Event
+    location: "Online (Zoom); follow-up meeting at the University of Bern (24 Aug 2022)"
+    author:
+      - name: "Digital Humanities, University of Bern"
+        affiliations:
+          - name: "University of Bern"
+            department: "Digital Humanities"
+            city: "Bern"
+            country: "Switzerland"
+        role: "Organiser"
+    other-links:
+      - text: "Event website"
+        href: "https://www.dh.unibe.ch/forschung/workshops_und_talks/digitale_sammlungen/index_ger.html"
+    ---
+
+    This event fostered interdisciplinary exchange on digital art collections from the perspectives of museums, research, and mediation/outreach.
+
+The main event took place online on two afternoons:
+- 28–29 October 2021, 14:00–17:15 (online)
+
+A follow-up meeting (including the launch of a web forum) took place on 24 August 2022 at the University of Bern. The page continues to document the programme, inputs, and resources, and points to the longer-term web forum.
+
+For the full documentation, programme, and links, see the event website.

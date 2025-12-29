@@ -1,0 +1,24 @@
+    ---
+    title: "RISM & Digital Humanities – Scientific Exchange"
+    subtitle: "Exchange on infrastructures, projects, and shared objectives"
+    event-date: "TBA"
+    date: "2025-12-29"
+    categories:
+      - Event
+    location: "Unitobler, room D222 (University of Bern)"
+    author:
+      - name: "Digital Humanities, University of Bern"
+        affiliations:
+          - name: "University of Bern"
+            department: "Digital Humanities"
+            city: "Bern"
+            country: "Switzerland"
+        role: "Organiser"
+    other-links:
+      - text: "Event website"
+        href: "https://www.dh.unibe.ch/forschung/workshops_und_talks/rism__dh/index_ger.html"
+    ---
+
+    Scientific exchange with the Répertoire International des Sources Musicales (RISM) on documentation of musical sources, shared goals, and collaboration opportunities with Digital Humanities and partner units at the University of Bern.
+
+The page includes a time-slot based agenda and location (Unitobler D222). If you need the exact date, please consult the event website.

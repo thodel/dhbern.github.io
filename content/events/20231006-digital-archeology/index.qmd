@@ -1,0 +1,26 @@
+    ---
+    title: "Digital Archaeology Bern – Ancient West Asia"
+    subtitle: "Conference on digital approaches to archaeology and philology"
+    event-date: "2023-10-06"
+    date: "2025-12-29"
+    categories:
+      - Event
+    location: "University of Bern, Switzerland"
+    author:
+      - name: "Digital Humanities, University of Bern"
+        affiliations:
+          - name: "University of Bern"
+            department: "Digital Humanities"
+            city: "Bern"
+            country: "Switzerland"
+        role: "Organiser"
+    other-links:
+      - text: "Event website"
+        href: "https://www.dh.unibe.ch/forschung/workshops_und_talks/digital_archaeology_bern/index_ger.html"
+    ---
+
+    Conference bringing together archaeologists, philologists, and digital humanists to present state-of-the-art research and discuss the future of archaeological and philological studies within the broader framework of digital humanities.
+
+Dates: 6–7 October 2023 (Bern)
+
+For organisational details and further information, see the event website.

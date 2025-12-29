@@ -1,0 +1,30 @@
+    ---
+    title: "AI in everyday education at secondary schools and universities"
+    subtitle: "Opportunities, limits, and implications of AI tools in teaching and learning"
+    event-date: "2025-11-28"
+    date: "2025-12-29"
+    categories:
+      - Event
+    location: "UniS (University of Bern), Schanzeneckstrasse 1, 3012 Bern"
+    author:
+      - name: "Digital Humanities, University of Bern"
+        affiliations:
+          - name: "University of Bern"
+            department: "Digital Humanities"
+            city: "Bern"
+            country: "Switzerland"
+        role: "Organiser"
+    other-links:
+      - text: "Event website"
+        href: "https://www.dh.unibe.ch/forschung/workshops_und_talks/ki_im_bildungsalltag_an_mittel__und_hochschulen/index_ger.html"
+    ---
+
+    Artificial intelligence is already part of everyday life in schools and universities. This event discusses how AI tools can support learning and teaching—and where their technical, legal, and ethical limits lie.
+
+Topics include:
+- possible uses and limits of AI tools in schools and higher education
+- ethical and legal questions
+- how required competencies may change for pupils and students
+- perspectives on the future of education and AI
+
+For the full programme and materials, see the event website.
