@@ -1,5 +1,5 @@
 ---
-title: "Geovistory: LOD Research Environment"
+title: "LOD for Humanities and Social Sciences"
 author:
   - name: Stephen Hart
     email: stephen.hart@unibe.ch
@@ -8,11 +8,13 @@ author:
 categories: [Services]
 ---
 
-*Geovistory* is a collaborative information system that allows researchers to structure, link and analyse data. Its innovative visualisation tools promote the sharing and dissemination of research data.
+The DH at the University of Bern maintains and supports Linked Open Data Services. WissKI is a collaborative information system that allows researchers to structure, link, and analyse data. Its innovative visualisation tools promote the sharing and dissemination of research data.
+
+We host, maintain, and advise on all things LOD.
 
 ## Services
 
--   Advice and support on using Geovistory
+-   Advice and support on using WissKI and Logre
 -   Provision of tools for semantic data modelling
 -   support with publishing and analysing research data
 
