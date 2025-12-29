@@ -1,0 +1,97 @@
+---
+title: Platforms in Dialogue (2025)
+subtitle: "A hands-on event by Digital Humanities and Open Science (University Library Bern) on digital platforms as core components of the digital ecosystem"
+event-date: "2025-12-10"
+date: "2025-12-10"
+categories:
+- Event
+location: "Dome Room (Kuppelraum), Main Building (H4), University of Bern"
+author:
+  - name: Ursula Loosli
+    affiliations:
+      - University Library Bern (Open Science)
+    email: imdialog@ub.unibe.ch
+    role: author
+  - name: Gero Schreier
+    affiliations:
+      - University Library Bern (Open Science)
+    email: imdialog@ub.unibe.ch
+    role: author
+  - name: Tobias Hodel
+    affiliations:
+      - University of Bern (Digital Humanities)
+    role: author
+other-links:
+  - text: Registration
+    icon: pencil-square
+    href: https://www.ub.unibe.ch/service/open_science/os_veranstaltungen/veranstaltungsformulare/plattformen_im_dialog_2025/index_ger.html
+  - text: Event page (German)
+    icon: info-circle
+    href: https://www.dh.unibe.ch/forschung/im_dialog/plattformen_im_dialog_2025/index_ger.html
+---
+
+Platforms are a fundamental component of the digital ecosystem. Text, images, and other data types are collected, bundled, and made sustainably available through platforms. This event brings platform operators and users into dialogue.
+
+For the sixth edition of “... in Dialogue”, the Digital Humanities and Open Science teams of the University Library Bern put **platforms** at the center. As usual, hands-on elements are combined with inputs from experts, and the dialogue within the University of Bern is complemented by projects and approaches from outside the university.
+
+## Programme
+
+| Time | Session | Speakers |
+|---:|---|---|
+| 09:00 | Welcome | Ursula Loosli, Gero Schreier & Tobias Hodel |
+| 09:15 | *Platform Art. The Artwork as a Networked Dialogue* | Yvonne Schweizer |
+| 10:05–11:05 | Platforms of Switzerland: **e-codices**, **swisscollections**, **e-periodica**, **République des Lettres** | Bill Duba; Monika Studer; Regina Wanger; Lukas Heinzmann |
+| 11:05–11:35 | Coffee break |  |
+| 11:35–12:30 | *Platforms in Dialogue – an ORD project: ORD IIIF* (presentation by the project partners) | Peter Dängeli; Christiane Sibille; Lukas Heinzmann |
+| 12:30–14:00 | Lunch break |  |
+| 14:00–15:00 | Platforms in development: *Google Books digitizations in Swiss libraries*; *Artigo* (online); *SKKG Collection Digital*; *Prometheus* (online); *LOD4HSS* | Martin Reisacher / Gabriel Müller; Stefanie Schneider; Sonja Gasser; Lisa Dieckmann; Stephen Hart |
+| 15:00–16:10 | Parallel sessions: **vitrivr hands-on** (smart search for multimedia files); **Dialogue: Platform–Research–Platform** | Rahel Arnold; Peter Dängeli / Lukas Heinzmann |
+| 16:10–17:00 | Looking back & ahead: *infoclio.ch — inform, publish, connect (practical report)*; *Digital Collections Bern (DCB) — making UniBE’s digital collections visible* | Eliane Kurmann; Kathi Woitas |
+| 17:00 | Closing & apéro |  |
+
+## Registration
+
+Registration is free. Please use the registration form provided by the University Library Bern (see link in the page header).
+
+## Contact & Organizers
+
+We look forward to your participation! If you have questions, please contact: **imdialog@ub.unibe.ch**.
+
+Organizers:
+
+- Prof. Dr. Tobias Hodel (Digital Humanities)
+- Peter Dängeli (Data Science Lab)
+- M.A. Ursula Loosli; Dr. Gero Schreier (Open Science)
+
+## Platform Art. The Artwork as a Networked Dialogue
+
+Talk of platforms has been ubiquitous not only since the rise of social media and NFTs, but also with the recent opening of large language models for everyday use. Bestsellers such as Nick Srnicek’s *Platform Capitalism* (2016) sharpened platform debates toward economic aspects and the establishment of new business models. Yet the term has been used in the arts for a long time—often in connection with computer systems.
+
+In this context, it stood for new organizational forms of art, solidaristic networks, and political utopias. The talk argues that platforms enabled thinking of the artwork as a **networked dialogue**. It shows how, since the 1970s, artists developed rules for cooperation, principles of data ethics, and interventionist procedures—debates that still shape digital ecosystems today.
+
+### Short bio
+
+PD Dr. Yvonne Schweizer is a postdoc at the Institute of Art History, University of Bern, where she coordinates the Swiss National Science Foundation project “Publics of Art. The History of the Swiss Sculpture Exhibition” and leads the crowdsourcing sub-project. In 2025 she completed her habilitation at the Faculty of Humanities at the University of Bern with the study *On the Usefulness of Users. Art Between Digital Cooperation and Platform Critique*.
+
+## Platforms in Dialogue – an ORD project: ORD IIIF
+
+In the swissuniversities ORD project **“Increasing ORD Interoperability with IIIF”** (ORDIIIF, 2025–2026), the journal portal **E-Periodica** (ETH Library) and the research data platform **“République des Lettres”** (formerly “hallerNet”) develop ways to exchange research and metadata via annotated IIIF manifests.
+
+The project addresses questions such as: How can users be made aware that valuable contextual information has been collected for a particular journal article within a research project? On which platform should which information—and the connecting manifests—best reside? How can a bilateral “dialogue” between a platform and its users become a multilateral dialogue that connects several platforms?
+
+## vitrivr hands-on: Smart Search for Multimedia Files
+
+The volume of digital media—images and videos, audio, and even 3D models—is growing rapidly. At the same time, the challenge of searching these contents efficiently is increasing. Modern multimedia retrieval systems use AI-based methods to rediscover content based on visual, auditory, or semantic properties.
+
+This workshop introduces basic concepts of multimedia retrieval, from content-based search strategies to current deep-learning approaches. The focus is on **vitrivr**, an open-source framework developed at the University of Basel that enables multimodal queries across different media types. In the second part, participants have the opportunity to test vitrivr themselves. Demonstrations range from a classic 2D web frontend to an extended-reality version, allowing participants to submit queries and explore multimedia collections directly.
+
+## Dialogue: Platform–Research–Platform
+
+Building on the ORD IIIF project presented in the morning, this session takes up the question of how platforms can enter into dialogue with one another—and what potentials this opens up.
+
+Possible discussion topics include: Where does platform dialogue already exist? Between which platforms can overlaps be identified, and how can these be made productive? Are certain offerings or services missing? And do platforms need direct exchange at all, or can needs be covered just as well in decentralized ways (e.g., through authority data and linked open data)?
+
+## infoclio.ch: Inform, Publish, Connect — a Practical Report
+
+infoclio.ch collects, bundles, and disseminates information relevant to historical research. The discipline portal also accompanies projects, initiatives, and events in **digital history**. This contribution takes a look behind the digital scenes and shows how new offerings emerge—often collaboratively, always oriented toward needs.
+
