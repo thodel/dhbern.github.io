@@ -1,29 +1,33 @@
-    ---
-    title: "Transcription & Data Archiving Workshop"
-    subtitle: "Whisper AI on UBELIX and archiving with SWISSUbase"
-    event-date: "2023-11-29"
-    date: "2025-12-29"
-    categories:
-      - Event
-    location: "Unitobler, F-107 (University of Bern)"
-    author:
-      - name: "Digital Humanities, University of Bern"
-        affiliations:
-          - name: "University of Bern"
-            department: "Digital Humanities"
-            city: "Bern"
-            country: "Switzerland"
-        role: "Organiser"
-    other-links:
-      - text: "Event website"
-        href: "https://www.dh.unibe.ch/forschung/workshops_und_talks/digital_linguistics/index_ger.html"
-    ---
+---
+title: "Transcription & Data Archiving Workshop"
+subtitle: "Whisper AI on UBELIX and archiving with SWISSUbase"
+event-date: "2023-11-29"
+date: "2025-12-29"
+categories:
+  - Event
+location: "Unitobler, F-107 (University of Bern)"
+author:
+  - name: "Digital Humanities, University of Bern"
+    affiliations:
+      - name: "University of Bern"
+        department: "Digital Humanities"
+        city: "Bern"
+        country: "Switzerland"
+    role: "Organiser"
+other-links:
+  - text: "Event website"
+  - text: "Download: Workshop_PosterDigi-Ling_HS23_corr_ger.pdf"
+    href: "Workshop_PosterDigi-Ling_HS23_corr_ger.pdf"
+    href: "https://www.dh.unibe.ch/forschung/workshops_und_talks/digital_linguistics/index_ger.html"
+---
 
-    Workshop on two practical aspects of managing audio/video data:
+Workshop on two practical aspects of managing audio/video data:
 1) efficient transcription with Whisper AI on the University of Bern’s UBELIX supercomputer
 2) long-term data archiving strategies with SWISSUbase (FAIR-aligned)
-
 Time: Wednesday, 29 November 2023, 16:15–17:45
 Place: Unitobler, F-107 (Bern)
-
 For downloads (poster) and full details, see the event website.
+
+## Downloads
+- [Download Workshop_PosterDigi-Ling_HS23_corr_ger.pdf](Workshop_PosterDigi-Ling_HS23_corr_ger.pdf){download}
+
