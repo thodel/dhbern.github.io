@@ -1,0 +1,120 @@
+---
+title: Digital Editions in Dialogue (2024)
+subtitle: "Challenges, infrastructures, and teaching practices for digital scholarly editions"
+event-date: "2024-12-04"
+date: "2024-11-01"
+categories:
+- Event
+location: "Hallerstrasse 6, Room 205, University of Bern (Bern, Switzerland)"
+author:
+  - name: Ursula Loosli
+    affiliations:
+      - University Library of Bern (Open Science)
+    role: organizer
+  - name: Gero Schreier
+    affiliations:
+      - University Library of Bern (Open Science)
+    role: organizer
+  - name: Tobias Hodel
+    affiliations:
+      - University of Bern (Digital Humanities)
+    role: organizer
+other-links:
+  - text: Event website (DE)
+    icon: info-circle
+    href: https://www.dh.unibe.ch/forschung/im_dialog/digitale_edition_im_dialog_2024/index_ger.html
+  - text: Registration
+    icon: clipboard-check
+    href: https://www.ub.unibe.ch
+---
+
+Digital scholarly editions are central research outputs and a form of foundational research in the humanities. Their digital implementation typically aims at **completeness**, **deep exploration**, and **sustainability**. As a result, editors face a wide range of challenges—ideally discussed within a broad community.
+
+In the **fifth** edition of the event series “... in Dialogue”, the **Digital Humanities** and **Open Science** teams of the **University Library of Bern** focus on current challenges of **digital editions**. As usual, hands-on parts are combined with inputs from experts, and the dialogue is sought both within the University of Bern and with projects and approaches from outside the university.
+
+For registration, please use the link on the event website.
+
+## Program
+
+| Time | Session | Presenter(s) |
+|---|---|---|
+| 09:00 | Welcome | Ursula Loosli, Gero Schreier & Tobias Hodel |
+| 09:15 | *Editions on Screen* (EN) | Elena Spadini |
+| 10:05–11:05 | Digital editions in teaching: editorial concepts & workflows | Patricia Zihlmann-Märki; Daniela Kohler & Lukas Heinzmann; Thomas Nehrlich |
+| 11:05–11:35 | Coffee break |  |
+| 11:35–12:30 | Infrastructure for digital editions | Andreas Kränzle; Ursula Loosli; Sebastian Flick; Martin Stuber, Peter Dängeli & Lukas Heinzmann; Rita Gautschy |
+| 12:30–14:00 | Lunch break |  |
+| 14:00–14:50 | Philology in the digital age: tasks for future digital editing and examples from the digital Gotthelf edition | Christian von Zimmermann |
+| 14:50–16:00 | Parallel sessions | Helena Bermúdez Sabel; Peter Dängeli & Christian Forney; Sebastian Flick |
+| 16:00–16:45 | Roundtable discussion | Christian von Zimmermann, Yann Stricker, Elena Chestnova, Andreas Kränzle, Rita Gautschy, Dirk Verdicchio |
+| Afterwards | Apéro |  |
+
+## Contact & organizers
+
+We look forward to your participation! For questions, please contact: **imdialog@ub.unibe.ch**.
+
+Organizers: Prof. Dr. Tobias Hodel (Digital Humanities); M.A. Ursula Loosli & Dr. Gero Schreier (Open Science).
+
+---
+
+## Elena Spadini: Editions on screen
+
+Scholarly editions aim to produce accurate, well-documented and critically enriched representations of (mostly) textual sources. In doing so, they provide the basis for further study in many disciplines. By looking at digital editions, we will consider whether and how this holds true, and what digital philology can contribute to the current scholarly landscape.
+
+## Patricia Zihlmann-Märki: Editorial concepts and TEI/XML — what do students concretely gain from the (digital) Gotthelf edition?
+
+Teaching foundational editorial knowledge works particularly well when theoretical reflection, transcription, and work in TEI/XML are combined. A recently conducted exercise confirmed the importance of knowledge transfer between research and teaching and invites discussion about course content.
+
+## Daniela Kohler & Lukas Heinzmann: Kurrent? XML? Challenges of digital editing in teaching, using *hallerNet* as an example
+
+Digital editing of handwritten sources—such as in a course connected to the edition of Albrecht von Haller’s correspondence—requires a wide range of skills: reading different Kurrent hands, philological analysis, and coding, database work, and other technical requirements.
+
+Because digital editing at the University of Bern is often taught across disciplines (e.g., editorial philology, German studies, history, digital humanities), it is challenging to set the level so that no one is under- or over-challenged. At the same time, teaching this broad skill set makes clear how complex digital editing is and how strongly it depends on teamwork.
+
+## Thomas Nehrlich: Humboldt digital for students — the Bern Humboldt edition as a teaching project
+
+Abstract TBD.
+
+## Andreas Kränzle: TEI Publisher, e-editiones, and Sources Online — a rapid tour
+
+This contribution introduces the open-source software **TEI Publisher**, the non-profit association **e-editiones**, and the editorial platform/infrastructure **Sources Online**.
+
+## Ursula Loosli: TEI Publisher service at UniBE
+
+The University Library and the Data Science Lab of the University of Bern are jointly developing a **TEI Publisher service** to support research projects at the university. This short contribution presents the current status of the service (currently under development) and the next development steps.
+
+## Sebastian Flick: In search of the eternally maintainable grail — TEI Publisher as a backend for *Parzival*
+
+Using the refactoring of the *Parzival* edition—an early pioneer project in digital editing—this talk shows what a setup can look like when **TEI Publisher** is used as a backend while a customized frontend meets specific project needs. Key aims are to reduce dependencies and the amount of domain knowledge needed to maintain the frontend.
+
+## Martin Stuber, Peter Dängeli & Lukas Heinzmann: Data-driven digital editing — the example of *hallerNet*
+
+Five years ago, the data and edition platform *hallerNet* was launched at the University of Bern—an example of continuous, cross-project development and (re-)use of research data. The presentation provides insights into the platform’s structure, architecture, and functionality and discusses the underlying considerations, including a somewhat broader future orientation.
+
+## Rita Gautschy: Digital editions at DaSCH
+
+This contribution presents different options for making data from digital editions available in the long term via **DaSCH**, as well as plans for further developments.
+
+## Christian von Zimmermann: Philology in the digital age — tasks for future digital editing and examples from the digital Gotthelf edition
+
+Abstract TBD.
+
+## Helena Bermúdez Sabel: Introduction to TEI Publisher: how to make a scholarly edition in 60 minutes (EN)
+
+In this hands-on workshop, we will go through the main functionalities of TEI Publisher in order to produce digital scholarly editions from TEI-encoded files. TEI Publisher was initially conceived as a tool to bridge the gap between TEI-XML source files and their publication, but has evolved into a multi-purpose tool that assists editors during the complete digital editing workflow.
+
+The cornerstone of TEI Publisher is the implementation of the TEI Processing model, which descriptively defines how the different elements of a TEI document should be presented for publication. In this workshop we will see how through the TEI Processing model and coherent defaults, we can build sophisticated editions in record time.
+
+TEI Publisher is free and open source software whose development is supported and coordinated by the international non-profit society e-editiones. Participants are encouraged to bring their own laptops. Prior installation of eXist-DB and TEI Publisher is recommended, but not mandatory.
+
+## Peter Dängeli & Christian Forney: On the technical implementation of the *hallerNet* data and edition platform
+
+How do a conventional file system, XSLT-based data preparation, a search index, and a frontend framework (Vue.js) that can interpret TEI data and transform it into HTML work together? And what role do project-specific input forms—implemented as an oXygen framework—play? We will take a short “tour d’application” and answer your questions.
+
+This slot follows a Q&A format: you can ask the questions you’re genuinely interested in, and we will address them directly.
+
+## Sebastian Flick: *Parzival* in Svelte — a technical deep dive
+
+The *Parzival* project uses a static frontend built with **Svelte** that consumes the **TEI Publisher** API to display ODD-transformed data. The site is built via GitHub Actions (CI/CD). The backend is eXist 6.2.0 with TEI Publisher 9.0.0.
+
+This slot follows a Q&A format: you can ask the questions you’re genuinely interested in, and we will address them directly.

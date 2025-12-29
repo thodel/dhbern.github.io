@@ -1,0 +1,43 @@
+---
+title: Digital Texts in Dialogue (2021)
+subtitle: "Workshop on digital text processing in the Humanities, with a special focus on Natural Language Processing (NLP)"
+event-date: "2021-10-20"
+date: "2021-10-20"
+categories:
+  - Event
+location: "Main Building, University of Bern (Hochschulstrasse 4), Room 028"
+lang: en
+author:
+  - name: Digital Humanities (University of Bern)
+    email: imdialog@ub.unibe.ch
+    role: author
+---
+
+Texts are at the heart of much humanities research. Their digital preparation and processing has therefore become a broad and intensively developed field within the Digital Humanities. Since the introduction of HTML and the World Wide Web, Humanities scholars have been working on the annotation, preparation, and visualisation of textual data in digital environments.
+
+Today, machine-learning methods in **Natural Language Processing (NLP)** add a new dimension: they enable the extraction of information and the quantitative comparison of texts. In this workshop, we explored current debates and methods with a particular focus on applications for participants’ own research questions. Short expert inputs alternated with hands-on sessions.
+
+## Online participation & materials
+
+- Online participation: <https://bit.ly/dig-texte>
+- Jupyter Notebook (NLP basics, Google Colab): <https://colab.research.google.com/drive/1mH87XpAV01Jgan5meg8aus6WL0XL64Zw?usp=sharing>
+- Jupyter Notebook (NLP NER, Google Colab): <https://colab.research.google.com/drive/1fQ-vghTxWfN9MG4tr2qcu_yVN5lX3XO5?usp=sharing>
+- Slides (Joel Niklaus): <https://docs.google.com/presentation/d/1Q2Dy8MQk0j4_hOFOTL3fN8WbCD8WCtGH2j8D-Sf_ubc/edit?usp=sharing>
+- Poster (PDF): <https://www.dh.unibe.ch/unibe/portal/fak_historisch/fsuf/d_dh/content/e330302/e1404697/e1126780/e1126786/2021_Digitale-Texte-im-Dialog_Poster_ger.pdf>
+
+## Programme
+
+| Time | Session | Presenter(s) |
+|---|---|---|
+| 09:30–10:00 | Welcome, introduction, and participant round | Organisers |
+| 10:00–12:00 | From the digital archive to the “Dynarchive” | Kurt Fendt |
+| 12:00–13:30 | Lunch break |  |
+| 13:30–14:00 | Swiss-Court-Predict: A Multilingual Legal Judgment Prediction Benchmark | Joel Niklaus |
+| 14:00–15:30 | Hands-on: Introduction to spaCy (NLP framework) |  |
+| 15:30–16:00 | Coffee break |  |
+| 16:00–17:00 | Parallel hands-on sessions: API harvesting / Using UBELIX | Kathi Woitas / Jonas Widmer |
+| from 17:00 | Closing (informal) |  |
+
+## Contact
+
+For questions, please contact: **imdialog@ub.unibe.ch**.

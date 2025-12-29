@@ -1,0 +1,78 @@
+---
+title: "Linked Open Data in Dialogue (2023)"
+subtitle: "…in Dialogue — Digital Humanities, University of Bern"
+date: 2023-11-15
+lang: en
+---
+
+# Linked Open Data in Dialogue (2023)
+
+The event **Linked Open Data in Dialogue** took place on **15 November 2023** at the University of Bern. It was part of the *…in Dialogue* series and focused on the use, publication, and sustainability of Linked Open Data (LOD) in the Humanities and Social Sciences.
+
+**Location:** Room 501 (Kuppelraum), Hochschulstrasse 4, 3012 Bern  
+**Format:** On‑site and online (Zoom)  
+**Language:** English
+
+---
+
+## About the Event
+
+The event was jointly organized by the **Digital Humanities Unit** and the **University Library of Bern** within the framework of the **LOD4HSS** project. It aimed to foster exchange between researchers, librarians, and developers working with Linked Open Data and semantic technologies.
+
+Special emphasis was placed on practical applications, interoperability, and the integration of research data into sustainable infrastructures such as **Geovistory** and **OntoME**.
+
+---
+
+## Program
+
+### Morning Session
+
+**09:00 – Welcome**  
+Ursula Loosli, Stephen Hart, Tobias Hodel  
+
+**09:15 – 10:00**  
+*Linked Open Data for Research: Towards a Paradigm Shift in the Humanities and Social Sciences*  
+Francesco Beretta  
+
+**10:15 – 11:25 – Geovistory Workshops**  
+Parallel sessions for beginners and advanced users  
+
+**11:30 – 12:30 – Project Presentations**
+- *The MURELCO Seminar – A Teaching Tool* — Matthieu Gillabert & Stephen Hart  
+- *The Processetti Inquiries (16th–17th c.)* — David Knecht  
+- *Switzerland and Beyond* — Tobias Hodel  
+- *Diaries of Anna Maria Preiswerk-Iselin* — Morgane Pica  
+- *OntoME – Ontology Management Environment* — Vincent Alamercery  
+
+---
+
+### Afternoon Session
+
+**14:00 – 15:15**  
+*Archival Descriptions as Linked Open Data: Why, How, and Where To*  
+Oliver Schihin  
+
+*Linked Open Data in Numismatics – nomisma.org and beyond*  
+Rahel C. Ackermann  
+
+*LOD Pilot Project “Berner Ortsgeschichten”*  
+René Frei & Thomas Hayoz  
+
+**15:45 – 17:00**  
+*Wikidata Hands-on: Introduction, Analysis and Visualization*  
+Benedikt Hitz-Gamper  
+
+**17:00 – 17:15**  
+Closing remarks & Apéro  
+Tobias Hodel & Gero Schreier  
+
+---
+
+## Contact
+
+For further information, please contact:  
+**imdialog@ub.unibe.ch**
+
+---
+
+*This event was part of the “im Dialog” series by the Digital Humanities initiative at the University of Bern.*

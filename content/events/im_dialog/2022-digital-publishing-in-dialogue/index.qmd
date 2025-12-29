@@ -1,0 +1,80 @@
+---
+title: "Digital Publishing in Dialogue (2022)"
+subtitle: "Event by Digital Humanities and Open Science (University Library), University of Bern"
+event-date: "2022-11-11"
+date: "2022-11-11"
+categories:
+  - Event
+location: "PROGR, Waisenhausplatz 30, 3011 Bern (accessible; entrance at PROGR East)"
+author:
+  - name: Tobias Hodel
+    affiliations:
+      - University of Bern (Digital Humanities)
+    role: organizer
+  - name: Dirk Verdicchio
+    affiliations:
+      - University Library of the University of Bern (Open Science)
+    role: organizer
+other-links:
+  - text: German event page
+    icon: info-circle
+    href: https://www.dh.unibe.ch/forschung/im_dialog/digitales_publizieren_im_dialog_2022/index_ger.html
+  - text: Abstracts and video recordings (German page)
+    icon: camera-video
+    href: https://www.dh.unibe.ch/forschung/im_dialog/digitales_publizieren_im_dialog_2022/zu_den_abstracts_und_videoaufzeichnungen/index_ger.html
+---
+
+Publication formats are changing rapidly across research fields, including the Humanities. Under the umbrella term **Open Science**, the open, reusable, findable, and interoperable provision of publications and research data is promoted—but the transition towards open Humanities is not straightforward and involves long-term negotiation processes across stakeholders.
+
+For the third time, **Digital Humanities** partnered with the **Open Science Team** of the University Library of Bern for the “...in Dialogue” series. The event combined keynote talks by leading scholars in Open Science with short inputs from projects based in Bern.
+
+**Morning focus:** publication models (especially journals)  
+**Afternoon focus:** publication forms for open data
+
+For questions, please contact **imdialog@ub.unibe.ch**.
+
+---
+
+## Venue
+
+**PROGR**, Waisenhausplatz 30, Bern (Switzerland)  
+The workshop venue is wheelchair accessible; the entrance is at **PROGR East**.
+
+---
+
+## Programme (11 November 2022)
+
+### Welcome
+
+| Time | Item | Speakers |
+|---|---|---|
+| 09:15 | Welcome | Tobias Hodel (DH) & Dirk Verdicchio (University Library) |
+
+### Part 1 — Focus on Journals
+
+| Time | Talk | Speaker |
+|---|---|---|
+| 09:30–10:30 | *Publishing in Open Access Journals. Where are we now and where do we go next?* | Andrea Hacker |
+| 10:30–11:30 | *The Action Plan for Diamond Open Access in the humanities: why, who, how?* | Pierre Mounier |
+| 11:30–11:45 | Break |  |
+| 11:45–12:45 | Short input 1: *The new digital Judaica: first experiences and an outlook* | René Bloch |
+|  | Short input 2: *21: Inquiries into Art, History, and the Visual — publishing an OA journal in art history* | Katharina Böhmer |
+|  | Short input 3: *Histories — MDPI’s 229th journal: a report from experience* | Jon Mathieu |
+
+### Part 2 — Focus on Data
+
+| Time | Talk | Speaker(s) |
+|---|---|---|
+| 14:00–15:00 | Data talk 1: *Mental maps, semi-guided interviews and perception data: publishing a mixed sociolinguistic corpus* | Yvette Bürki & Melanie Würth |
+|  | Data talk 2: *Measuring the world and the openness of data: the digital edition of Alexander von Humboldt’s writings* | Thomas Nehrlich |
+|  | Data talk 3: *Breaking historical telephone directories into information packages* | Heike Bazak & Tobias Hodel |
+| 15:00–15:15 | Break |  |
+| 15:15–15:45 | *Data publication in the Humanities* | Gero Schreier |
+| 15:45–16:45 | Final discussion (roundtable) | Silke Bellanger |
+|  | Apéro & informal exchange afterwards |  |
+
+---
+
+## Documentation
+
+The event has concluded, but the topic remains relevant. The linked page “Abstracts and video recordings” provides additional materials (slides and abstracts) for several talks.

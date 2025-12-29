@@ -1,0 +1,46 @@
+---
+title: Digital Images in Dialogue (2020)
+subtitle: "Workshop and networking event on digital and digitised images in the Humanities: infrastructures, methods, opportunities, and risks"
+event-date: "2020-10-27"
+date: "2020-10-27"
+categories:
+  - Event
+location: "University of Bern (online event; originally planned at Mittelstrasse 43)"
+lang: en
+author:
+  - name: Digital Humanities (University of Bern)
+    email: imdialog@ub.unibe.ch
+    role: author
+---
+
+Due to the epidemiological situation, this event was held online.
+
+Images are an essential part of humanities research. They are analysed and published in disciplines such as art history, archaeology, history, theatre studies, and musicology. The “digital turn” has opened up countless new research avenues—from algorithmic analysis to making image collections available to research communities worldwide.
+
+This workshop put **digital and digitised images** at the centre. Beyond showcasing new digital possibilities, it focused on a critical discussion of opportunities and risks in working with images. Libraries increasingly play a key role here: as service providers and as operators of infrastructure for image analysis. Together, we discussed which infrastructures and services researchers will need in the future and what new research questions these enable.
+
+## Flyer & slides
+
+- Flyer (PDF): <https://www.dh.unibe.ch/unibe/portal/fak_historisch/fsuf/d_dh/content/e330302/e1404697/e999556/e999675/Das_digitale_Bild_imDialog_2020-09-28_ger.pdf>
+- Slides: *IIIF Server as a Service* (PDF): <https://www.dh.unibe.ch/unibe/portal/fak_historisch/fsuf/d_dh/content/e330302/e1404697/e999556/e1010537/IIIF_Server_as_a_Service_ger.pdf>
+- Slides: *IIIF Server as a Service (hallerNet)* (PDF): <https://www.dh.unibe.ch/unibe/portal/fak_historisch/fsuf/d_dh/content/e330302/e1404697/e999556/e1014220/haller_digitales_bild_bern_2020_teil_ms_ger.pdf>
+- Slides: *Music and Digital Images* (PDF): <https://www.dh.unibe.ch/unibe/portal/fak_historisch/fsuf/d_dh/content/e330302/e1404697/e999556/e1014218/2020_10_27-Music-and-digital-images_ger.pdf>
+
+## Programme
+
+| Time | Session | Presenter(s) |
+|---|---|---|
+| 13:30 | Opening & welcome | Ursula Loosli, Philipp Casula & Tobias Hodel |
+| 13:40–14:00 | The 3D paradigm shift: how digital 3D documentation methods are changing archaeological practice | Marco Hostettler |
+| 14:00–14:30 | IIIF Server as a Service: an image server from a collaboration between the University Library, Digital Humanities, and hallerNet | Martin Stuber, Heinz Rohner & Stefan Telli |
+| 14:30–15:00 | Diamond/Platinum Open Access and image rights: experiences from founding the journal *21-Inquiries* | Beate Fricke & Katharina Böhmer |
+| 15:00–15:40 | Hands-on break: 3D scanner demo & coffee | Hanno Schwarz |
+| 15:40–16:10 | Image-based 3D documentation in underwater archaeology | Johannes Reich |
+| 16:10–16:40 | Diglu: representing cultural contexts with pictograms | Fabienne Kilchör |
+| 16:40–17:10 | “...I noted it most carefully”: digitising historical maps at the University Library Bern | Michael Schläfli |
+| 17:10–17:40 | IIIF and music | Cristina Urchueguía & Laurent Pugin |
+| afterwards | Apéro and informal exchange |  |
+
+## Contact
+
+For questions, please contact: **imdialog@ub.unibe.ch**.
