@@ -15,10 +15,8 @@ author:
         country: "Switzerland"
     role: "Organiser"
 other-links:
-  - text: "Event website"
-  - text: "Download: Workshop_PosterDigi-Ling_HS23_corr_ger.pdf"
+  - text: "Download: Workshop_PosterDigi-Ling_HS23 PDF"
     href: "Workshop_PosterDigi-Ling_HS23_corr_ger.pdf"
-    href: "https://www.dh.unibe.ch/forschung/workshops_und_talks/digital_linguistics/index_ger.html"
 ---
 
 Workshop on two practical aspects of managing audio/video data:
@@ -26,7 +24,6 @@ Workshop on two practical aspects of managing audio/video data:
 2) long-term data archiving strategies with SWISSUbase (FAIR-aligned)
 Time: Wednesday, 29 November 2023, 16:15–17:45
 Place: Unitobler, F-107 (Bern)
-For downloads (poster) and full details, see the event website.
 
 ## Downloads
 - [Download Workshop_PosterDigi-Ling_HS23_corr_ger.pdf](Workshop_PosterDigi-Ling_HS23_corr_ger.pdf){download}
