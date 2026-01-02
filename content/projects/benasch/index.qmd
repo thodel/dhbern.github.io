@@ -1,5 +1,6 @@
 ---
 title: BeNASch
+image: benasch.png
 status: active
 type: Forschungsprojekt
 categories:
@@ -7,7 +8,11 @@ categories:
 - Project
 ---
 
-# Ein Workshop zur nachhaltigen Annotation von Entitäten und Ereignissen in historischen Texten
+# BeNASch: Das Berner (früh-)Neuhochdeutsche Annotationsschema
+
+Wir versuchen einen Standard zu etablieren, auf den Projekte, in welchen mit Texten in vormodernem Deutsch gearbeitet wird, zurückgreifen können und der eine weitgehende Kompatibilität zwischen den Projekten gewährleistet.
+
+## Ein Workshop zur nachhaltigen Annotation von Entitäten und Ereignissen in historischen Texten
 
 Wir laden zum ersten Workshop zu BeNASch, dem Annotationsschema für vormoderne deutschsprachige Texte, ein. Über zwei Tage wollen wir uns intensiv mit dem Schema auseinandersetzen. Einer praktischen Einführung zum Schema folgen kritische Diskussionen. Forschende aller Stufen (inklusive Studierende), die sich für Annotation und Datenmodellierung anhand historischer Texte interessieren, sind herzlich eingeladen. Der Workshop findet am 23. und 24. Januar 2025 an der Universität Bern statt.
 

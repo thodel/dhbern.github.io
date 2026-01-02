@@ -1,6 +1,7 @@
 ---
 title: "Bundesratsprotokolle"
 subtitle: "Kooperationsprojekt Aufbereitung der Schweizerischen Bundesratsprotokolle"
+image: bar.png
 author: 
  - David Schoch
 type: "Digitale Edition"
