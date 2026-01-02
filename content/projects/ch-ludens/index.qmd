@@ -1,6 +1,7 @@
 ---
 title: "Confoederatio Ludens"
 type: "Research Project"
+image: "chludens-logo.png"
 status: active
 categories:
 - Confoederatio Ludens

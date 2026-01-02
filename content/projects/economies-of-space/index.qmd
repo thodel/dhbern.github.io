@@ -1,6 +1,7 @@
 ---
 title: "Economies of Space"
 subtitle: "Practices, Discourses and Actors on the Basel Real Estate Market (1400-1700)"
+image: "oekonomien_des_raumes_visual.jpg"
 author: 
  - Tobias Hodel
 type: "Application of Text Recognition, Named Entities and Event Extraction"

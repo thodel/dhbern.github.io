@@ -1,6 +1,8 @@
 ---
 title: "Projects"
 listing:
-  type: default
+  type: grid
   contents: "./*/index.qmd"
+  image-lazy-loading: true
+  sort: "status asc"
 ---
