@@ -1,6 +1,7 @@
 ---
 title: "Text Generator for Style Imitation"
 subtitle: "Generating texts in the style of Robert Walser and Emmy Hennings"
+image: "aufgeschrieben.jpg"
 author:
  - Tobias Hodel
 type: "Digital Tool"

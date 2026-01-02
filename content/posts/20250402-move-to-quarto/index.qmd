@@ -18,10 +18,10 @@ other-links:
 
 The Digital Humanities department at the University of Bern is transitioning its research and services to a [Quarto](https://quarto.org/)-based website hosted on [GitHub Pages](https://pages.github.com/). This strategic move aims to enhance the flexibility and accessibility of their digital presence.
 
-![We are moving!](ChatGPT%20Image%20Apr%202,%202025,%2008_43_17%20AM.png){fig-alt="A smiling woman holding a box in an office space."}
+![We are moving!](quarto.png){fig-alt="The logo of quarto."}
 
 Quarto is an open-source publishing system that supports various formats, including HTML, PDF, and ePub. It integrates seamlessly with programming languages such as Python, R, Julia, and Observable, facilitating the creation of dynamic and reproducible content. This versatility is particularly beneficial for digital humanities projects that often require the integration of diverse data sources and analytical methods.
 
 By hosting their Quarto website on GitHub Pages, the department leverages a robust platform for version control and collaborative development. GitHub Pages offers a streamlined process for publishing content directly from a repository, ensuring that updates and new research outputs can be shared promptly with the academic community and the public.
 
-This initiative reflects the University of Bern's commitment to adopting modern digital tools to advance humanities research and education. By embracing Quarto and GitHub Pages, the Digital Humanities department enhances its ability to present work and share skills in a more dynamic and interactive manner, fostering greater engagement with scholars and the broader community.
+This initiative reflects the DH@University of Bern's commitment to adopting modern digital tools to advance humanities research and education. By embracing Quarto and GitHub Pages, the Digital Humanities department enhances its ability to present work and share skills in a more dynamic and interactive manner, fostering greater engagement with scholars and the broader community.

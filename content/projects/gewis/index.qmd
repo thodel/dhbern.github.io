@@ -1,6 +1,7 @@
 ---
 title: "Linked Data & Relational Databases – Grounded Knowledge (GeWiS)"
 subtitle: "Conveying, connecting, and preserving grounded knowledge"
+image: "gewis_teaser.gif"
 author:
   - name: "Digital Humanities, University of Bern"
 type: "Research Project"

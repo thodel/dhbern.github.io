@@ -1,6 +1,7 @@
 ---
 title: "The Flow"
 subtitle: "From Deep-Learning to Digital Analysis and their Role in the Humanities Creating, Evaluating, and Critiquing Workflows for Historical Corpora"
+image: "flow-logo.png"
 author: 
  - Tobias Hodel
 type: "Research in Machine Learning and Artificial Intelligence"
