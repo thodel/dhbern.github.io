@@ -143,7 +143,7 @@ details p {
     <tr>
       <td rowspan="2">09:15</td>
       <td>Bruce Nikkel (Professor of Digital Forensics, Bern University of Applied Sciences)</td>
-      <td>Digital Forensics and Vintage Computing</td>
+      <td>Digital Forensics and Vintage Computing ([slides](https://doi.org/10.5281/zenodo.20595949))</td>
       <td>40'</td>
     </tr>
     <tr>
@@ -158,12 +158,12 @@ details p {
     <tr>
       <td rowspan="4">10:45</td>
       <td>Elena Barchielli, Simon Willemin and Elena Spadini (University of Bern)</td>
-      <td>From Electronic Word Processors to Computers: Experiences with the Archives of Swiss Writers</td>
+      <td>From Electronic Word Processors to Computers: Experiences with the Archives of Swiss Writers ([slides](https://doi.org/10.5281/zenodo.20490926))</td>
       <td>20'</td>
     </tr>
     <tr>
       <td>Emmanuela Carbé and Mariangela Giglio (University of Venice and Bologna)</td>
-      <td>Between Philology and Digital Forensics: The Case of Franco Fortini</td>
+      <td>Between Philology and Digital Forensics: The Case of Franco Fortini ([slides](https://doi.org/10.5281/zenodo.20646793))</td>
       <td>20'</td>
     </tr>
     <tr>
@@ -188,7 +188,7 @@ details p {
     </tr>
     <tr>
       <td>Moritz Mähr (University of Bern and ETH Library)</td>
-      <td>Manuals as Forensic Evidence: Reconstructing Digital Systems and Administrative Practice</td>
+      <td>Manuals as Forensic Evidence: Reconstructing Digital Systems and Administrative Practice ([slides](https://doi.org/10.5281/zenodo.20080878))</td>
       <td>20'</td>
     </tr>
     <tr>
@@ -209,7 +209,7 @@ details p {
     <tr>
       <td >16:30</td>
       <td></td>
-      <td>Visit to the GameLab</td>
+      <td>Visit to the [GameLab](https://dhbern.github.io/content/services/gamelab/)</td>
       <td></td>
     </tr>
     <tr class="highlight-gray">
