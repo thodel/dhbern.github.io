@@ -44,6 +44,8 @@ To ground the discussion, we ran a survey collecting insights from stakeholders 
 - [Scoping review (PDF)](PASC_Gensitz_ScopingReview.pdf)
 - [Text Lab PASC (PDF)](Text-Lab-PASC.pdf)
 
+Take part in the survey: [framaforms.org/serving-inference-unibe-1779955001](https://framaforms.org/serving-inference-unibe-1779955001)
+
 ## Details
 
 **Organizers:** Tobias Hodel (University of Bern, Switzerland) and [Sukanya Nath](https://www.dsl.unibe.ch/about/people_metadata/dr_nath_sukanya/) (University of Bern)
