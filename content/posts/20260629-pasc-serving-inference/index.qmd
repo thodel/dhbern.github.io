@@ -1,0 +1,57 @@
+---
+title: "Serving Inference at PASC 2026 in Bern"
+author: Digital Humanities
+date: 2026.06.29
+image: pasc26-bern.jpg
+image-alt: "Aerial view of Bern, Switzerland, host city of PASC 2026 (© Mike Dotta)"
+categories:
+- Post
+other-links:
+  - text: PASC 2026 Conference
+    icon: globe
+    href: https://pasc-conference.org/editions/pasc26/
+  - text: Download survey results (PDF)
+    icon: file-earmark-pdf
+    href: Serving-Inference-UNIBE-Survey-Results.pdf
+  - text: Scoping review (PDF)
+    icon: file-earmark-pdf
+    href: PASC_Gensitz_ScopingReview.pdf
+  - text: Text Lab PASC (PDF)
+    icon: file-earmark-pdf
+    href: Text-Lab-PASC.pdf
+  - text: Contact us
+    icon: envelope
+    href: mailto:digitalhumanities@unibe.ch
+---
+
+The Digital Humanities, together with the [Data Science Lab](https://www.dsl.unibe.ch/), are at [PASC 2026](https://pasc-conference.org/editions/pasc26/) — the Platform for Advanced Scientific Computing Conference, hosted at the University of Bern from **29 June to 1 July 2026**. We are organising the minisymposium **"Serving Inference: Leveraging HPCs in the Age of Generative AI"**, bringing together institutions that are actively building infrastructure to serve generative AI on high-performance computing systems.
+
+![](PASC26-logo.png){fig-alt="PASC26 — Bern, Switzerland, 29 June–1 July 2026" width="60%"}
+
+## The minisymposium
+
+Generative AI is reshaping how scientific outputs are produced, yet most widely used tools are operated by commercial providers whose practices around processing, generating, and storing user inputs are often unclear. This lack of transparency raises serious concerns for research organizations handling sensitive or regulated data and complicates the responsible use of even non-regulated scientific content. At the same time, many commercially served models are closed-source and subject to frequent, opaque updates, limiting reproducibility and undermining alignment with FAIR principles.
+
+As open-weight and open-source models proliferate, HPC infrastructures are emerging as a promising alternative for hosting and providing controlled access to AI within research environments. However, most HPC systems were not designed for continuous, GPU-based inference services, creating technical and operational challenges spanning deployment, scheduling, reliability, user access, and governance. Consequently, institutions are developing ad hoc solutions with limited opportunities to exchange patterns and lessons learned.
+
+This minisymposium convenes a panel of institutions actively building such capabilities to compare approaches and discuss best practices, minimal viable solutions, and ideal configurations for serving generative AI on HPC. To broaden participation, we use a short questionnaire to structure contributions across four dimensions: technical setup, usage policies, documentation practices, and monitoring/oversight mechanisms.
+
+## Survey results
+
+To ground the discussion, we ran a survey collecting insights from stakeholders on how they access, use, and rate GenAI infrastructure. The full results — covering infrastructure accessibility, usage patterns, satisfaction, and identified pain points — are available for download:
+
+- [Serving Inference – UNIBE Survey Results (PDF)](Serving-Inference-UNIBE-Survey-Results.pdf)
+- [Scoping review (PDF)](PASC_Gensitz_ScopingReview.pdf)
+- [Text Lab PASC (PDF)](Text-Lab-PASC.pdf)
+
+## Details
+
+**Organizers:** Tobias Hodel (University of Bern, Switzerland) and [Sukanya Nath](https://www.dsl.unibe.ch/about/people_metadata/dr_nath_sukanya/) (University of Bern)
+
+**Chair:** [Sukanya Nath](https://www.dsl.unibe.ch/about/people_metadata/dr_nath_sukanya/) (University of Bern)
+
+**Panel:** [Kai Michael Gensitz](https://www.ispw.unibe.ch/ueber_uns/personen/gensitz_kai_michael/index_ger.html) (University of Bern) and [Ahmad Alhineidi](https://www.dsl.unibe.ch/about/people_metadata/ma_alhineidi_ahmad/) (Data Science Lab, University of Bern)
+
+**Domains:** Chemistry and Materials; Climate, Weather, and Earth Sciences; Applied Social Sciences and Humanities; Engineering; Life Sciences; Physics; Computational Methods and Applied Mathematics
+
+If you are working on serving generative AI on HPC and would like to exchange approaches, come and join the conversation at PASC 2026 — or [get in touch](mailto:digitalhumanities@unibe.ch).
