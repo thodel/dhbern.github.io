@@ -1,8 +1,8 @@
 ---
 title: Digital Images in Dialogue (2020)
 subtitle: "Workshop and networking event on digital and digitized images in the Humanities: infrastructures, methods, opportunities, and risks"
-event-date: "2020-10-27"
-date: "2020-10-27"
+event-date: "2020.10.27"
+date: "2020.10.27"
 categories:
   - Event
 location: "University of Bern (online event; originally planned at Mittelstrasse 43)"

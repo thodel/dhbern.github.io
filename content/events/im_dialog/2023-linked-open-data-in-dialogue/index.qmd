@@ -1,8 +1,8 @@
 ---
 title: "Linked Open Data in Dialogue (2023)"
 subtitle: "…in Dialogue — Digital Humanities, University of Bern"
-date: "2023-11-15"
-event-date: "2023-11-15"
+date: "2023.11.15"
+event-date: "2023.11.15"
 categories: [Event]
 lang: "en"
 ---

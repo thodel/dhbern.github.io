@@ -1,8 +1,8 @@
 ---
 title: "Digital Archaeology Bern – Ancient West Asia"
 subtitle: "Conference on digital approaches to archaeology and philology"
-event-date: "2023-10-06"
-date: "2023-10-06"
+event-date: "2023.10.06"
+date: "2023.10.06"
 categories:
   - Event
 location: "University of Bern, Switzerland"

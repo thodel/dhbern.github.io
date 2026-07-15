@@ -1,8 +1,8 @@
 ---
 title: "RISM & Digital Humanities – Scientific Exchange"
 subtitle: "Exchange on infrastructures, projects, and shared objectives"
-event-date: "2023-10-03"
-date: "2023-10-03"
+event-date: "2023.10.03"
+date: "2023.10.03"
 categories:
   - Event
 location: "Unitobler, room D222 (University of Bern)"

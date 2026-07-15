@@ -1,8 +1,8 @@
 ---
 title: Digital Editions in Dialogue (2024)
 subtitle: "Challenges, infrastructures, and teaching practices for digital scholarly editions"
-event-date: "2024-12-04"
-date: "2024-11-01"
+event-date: "2024.12.04"
+date: "2024.11.01"
 categories:
 - Event
 location: "Hallerstrasse 6, Room 205, University of Bern (Bern, Switzerland)"

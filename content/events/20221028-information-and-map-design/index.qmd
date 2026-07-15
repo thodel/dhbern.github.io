@@ -1,8 +1,8 @@
 ---
 title: "Information and map design for humanities scholars"
 subtitle: "Basics of information design and GIS/cartographic design with hands-on exercises"
-event-date: "2022-10-28"
-date: "2022-10-28"
+event-date: "2022.10.28"
+date: "2022.10.28"
 categories:
   - Event
 location: "Uni Mittelstrasse (University of Bern), Seminar room 320"

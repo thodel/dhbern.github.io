@@ -1,8 +1,8 @@
 ---
 title: "AI in everyday education at secondary schools and universities"
 subtitle: "Opportunities, limits, and implications of AI tools in teaching and learning"
-event-date: "2025-11-28"
-date: "2025-11-28"
+event-date: "2025.11.28"
+date: "2025.11.28"
 categories:
   - Event
 location: "UniS (University of Bern), Schanzeneckstrasse 1, 3012 Bern"

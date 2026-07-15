@@ -1,8 +1,8 @@
 ---
 title: Historicizing G.A.M.E.S. 2025
 subtitle: Gaming, Artifacts, Memory, Experience and Society
-event-date: "2025-09-11"  # 11.09.-12.09.25
-date: "2025-07-01"
+event-date: "2025.09.11"  # 11.09.-12.09.25
+date: "2025.07.01"
 categories:
 - Event
 - Confoederatio Ludens

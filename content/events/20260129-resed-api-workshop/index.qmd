@@ -1,8 +1,8 @@
 ---
 title: Re-use of Editions and Text Collections. The Role of APIs
 subtitle: Workshop organized by the swissuniversities ORD project "ReSED API - Re-Use Standards for Editions Data with Application Programming Interfaces"
-event-date: "2026-01-29"
-date: "2026-01-29"
+event-date: "2026.01.29"
+date: "2026.01.29"
 categories:
 - Event
 location: University of Zurich

@@ -1,6 +1,6 @@
 """Pre-render script: split events into upcoming and past YAML listing files."""
 
-from datetime import date
+from datetime import date, datetime
 from pathlib import Path
 
 import yaml
@@ -22,6 +22,30 @@ def parse_frontmatter(path: Path) -> dict | None:
             return yaml.safe_load("".join(lines[1:i]))
 
     return None
+DATE_FORMAT = "%Y.%m.%d"  # dotted YYYY.MM.DD is the site-wide date format
+
+
+def _parse_date(value) -> date | None:
+    """Parse a date given as a date object or a YYYY.MM.DD / YYYY-MM-DD string."""
+    if isinstance(value, date):
+        return value
+    if isinstance(value, str):
+        for parser in (
+            lambda v: datetime.strptime(v, DATE_FORMAT).date(),
+            date.fromisoformat,
+        ):
+            try:
+                return parser(value)
+            except ValueError:
+                continue
+    return None
+
+
+def _format_date(value: date) -> str:
+    """Render a date object in the site-wide dotted format."""
+    return value.strftime(DATE_FORMAT)
+
+
 def _flatten_author(author) -> str:
     """Convert author field (string, dict, or list) to a plain string."""
     if isinstance(author, str):
@@ -47,24 +71,20 @@ def collect_events() -> list[tuple[date, dict]]:
         if "Event" not in categories:
             continue
 
-        event_date = fm.get("event-date") or fm.get("date")
+        event_date = _parse_date(fm.get("event-date") or fm.get("date"))
         if event_date is None:
-            continue
+            continue  # Skip events with missing or invalid date format
 
-        # Normalize to date object
-        if isinstance(event_date, str):
-            try:
-                event_date = date.fromisoformat(event_date)
-            except ValueError:
-                continue  # Skip events with invalid date format
+        # Fall back to the event date when no separate publication date is set
+        pub_date = _parse_date(fm.get("date")) or event_date
 
         # Build path relative to content/ with a POSIX-style .html output path
         rel_path = qmd.relative_to(CONTENT_DIR.parent).with_suffix(".html").as_posix()
 
         item = {
             "title": fm.get("title", ""),
-            "event-date": event_date.isoformat(),
-            "date": str(fm.get("date", event_date.isoformat())),
+            "event-date": _format_date(event_date),
+            "date": _format_date(pub_date),
             "author": _flatten_author(fm.get("author", "")),
             "location": fm.get("location", ""),
             "categories": categories,

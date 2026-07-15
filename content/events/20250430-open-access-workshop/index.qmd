@@ -1,8 +1,8 @@
 ---
 title: Workshop on Open Access, Open & Community Peer Review
 subtitle: Rethinking Scholarly Publishing in the Digital Humanities
-event-date: "2025-04-30"
-date: "2025-04-30"
+event-date: "2025.04.30"
+date: "2025.04.30"
 categories:
 - Event
 location: University of Zurich
