@@ -13,7 +13,7 @@ author:
         department: "Digital Humanities"
         city: "Bern"
         country: "Switzerland"
-    role: "Organiser"
+    role: "Organizer"
 other-links:
   - text: "Event website"
     href: "https://www.dh.unibe.ch/forschung/workshops_und_talks/digital_archaeology_bern/index_ger.html"
@@ -21,4 +21,4 @@ other-links:
 
 Conference bringing together archaeologists, philologists, and digital humanists to present state-of-the-art research and discuss the future of archaeological and philological studies within the broader framework of digital humanities.
 Dates: 6–7 October 2023 (Bern)
-For organisational details and further information, see the event website.
+For organizational details and further information, see the event website.

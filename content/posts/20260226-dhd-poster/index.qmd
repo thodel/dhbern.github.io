@@ -1,7 +1,7 @@
 ---
 title: "UNIBE at DHD 2026 in Vienna: Poster"
 author: Digital Humanities
-date: 2026.02.26
+date: 2026-02-26
 image: benasch_poster_dhd_preview.jpg
 image-alt: "Preview of the UNIBE Poster at DHD 2026"
 categories:

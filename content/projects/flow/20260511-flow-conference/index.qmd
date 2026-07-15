@@ -1,5 +1,5 @@
 ---
-title: "The FLOW Conference"
+title: "The Flow Conference"
 subtitle: "From Deep Learning to Digital Analysis and their Role in the Humanities"
 event-date: "2026-06-11"
 date: "2026-06-11"
@@ -9,9 +9,9 @@ categories:
 location: "University of Bern, Mittelstrasse 43, 1st Floor, Room 124, 3012 Bern"
 author:
   - name: "Serena Tolino"
-    role: "Organiser"
+    role: "Organizer"
   - name: "Tobias Hodel"
-    role: "Organiser"
+    role: "Organizer"
 ---
 
 
@@ -21,7 +21,7 @@ author:
 Conference
 :::
 
-## The FLOW Conference
+## The Flow Conference
 
 ::: {.flow-subtitle}
 From Deep Learning to Digital Analysis and their Role in the Humanities
@@ -48,15 +48,15 @@ From Deep Learning to Digital Analysis and their Role in the Humanities
 ::: {.quick-info}
 - **Dates:** 11–12 June 2026
 - **Venue:** University of Bern, Mittelstrasse 43, 3012 Bern
-- **Organisers:** Serena Tolino, Tobias Hodel
+- **Organizers:** Serena Tolino, Tobias Hodel
 - **Program:** Schedule below
 :::
 
-The Flow project – *From Deep Learning to Digital Analysis and their Role in the Humanities* – is exploring how digital workflows can transform the study of historical sources. Over the past years, the project has brought together historians, linguists, and computer scientists to develop, evaluate, and critique workflows that connect the interpretive traditions of the humanities with the methodological rigor of data science. At its heart, FLOW is about creating, evaluating, and reflecting on the workflows themselves — the sequence of processes that link source material to digital interpretation. Beginning with text recognition, through text annotation, model training, and ultimately publishing, the project has sought to make each step transparent, reusable, and critically informed. By developing models for Handwritten Text Recognition (HTR) and Natural Language Processing (NLP) and publishing them openly on platforms such as Hugging Face, The Flow contributes to the broader digital humanities community and to the principle of reproducible, collaborative research.
+The Flow project – *From Deep Learning to Digital Analysis and their Role in the Humanities* – is exploring how digital workflows can transform the study of historical sources. Over the past years, the project has brought together historians, linguists, and computer scientists to develop, evaluate, and critique workflows that connect the interpretive traditions of the humanities with the methodological rigor of data science. At its heart, Flow is about creating, evaluating, and reflecting on the workflows themselves — the sequence of processes that link source material to digital interpretation. Beginning with text recognition, through text annotation, model training, and ultimately publishing, the project has sought to make each step transparent, reusable, and critically informed. By developing models for Handwritten Text Recognition (HTR) and Natural Language Processing (NLP) and publishing them openly on platforms such as Hugging Face, The Flow contributes to the broader digital humanities community and to the principle of reproducible, collaborative research.
 
 The project’s historical case studies form the practical testing ground for these workflows. The four doctoral projects investigate distinct legal and administrative corpora — from medieval England and the Hanseatic cities of Northern Europe, to the early modern records of Bern and the sijill registers of Jerusalem. Together, they demonstrate how digital methods can uncover patterns of institutional practice and social interaction that are otherwise difficult to discern in premodern texts.
 
-This final conference in Bern marks both a conclusion and a beginning. It offers a platform for external experts to discuss the epistemological and methodological implications of digital workflows in the humanities, while giving the Flow doctoral researchers the opportunity to present their findings and reflect on the integration of machine learning in historical research. The different experts will engage in a discussion on the infrastructural, methodological, and data-driven foundations of scholarly work, with particular attention to the role of clearly structured digital workflows in an era of growing AI hype. To ensure targeted and transparent digital text practices, the papers explore key workflow components such as automated handwriting recognition, text recognition and processing, named entity recognition, and language modelling.
+This final conference in Bern marks both a conclusion and a beginning. It offers a platform for external experts to discuss the epistemological and methodological implications of digital workflows in the humanities, while giving the Flow doctoral researchers the opportunity to present their findings and reflect on the integration of machine learning in historical research. The different experts will engage in a discussion on the infrastructural, methodological, and data-driven foundations of scholarly work, with particular attention to the role of clearly structured digital workflows in an era of growing AI hype. To ensure targeted and transparent digital text practices, the papers explore key workflow components such as automated handwriting recognition, text recognition and processing, named entity recognition, and language modeling.
 
 Central questions include:
 - What kinds of digital workflows exist, and how are they structured?
@@ -88,7 +88,7 @@ Schedule at a glance (subject to minor updates).
 | 09:00 | Welcome |
 | 09:15 | Intro by the organizers: Serena Tolino, Silke Schwandt, Angela Huang, Tobias Hodel |
 | 09:45 | Input by Developers: From Preprocessing to Text Recognition; from Language Modeling to Information Extraction — Dana Meyer & Jonas Widmer |
-| 10:00 | Malte Meister (TU Darmstadt): The Technical Workflow Developed in FLOW - An Outsider's Perspective |
+| 10:00 | Malte Meister (TU Darmstadt): The Technical Workflow Developed in Flow - An Outsider's Perspective |
 | 11:00 | *Coffee break* |
 | 11:30 | Text Recognition Pipelines — Michael Schonhardt (TU Darmstadt); Melvin Wilde & Christopher Kuhlman |
 | 13:00 | *Lunch break* |

@@ -6,7 +6,7 @@ categories: [Services]
 
 We offer training and advice on a wide range of digital tools, including:
 
--   Blender: 3D modelling and visualisation
+-   Blender: 3D modeling and visualization
 -   Geovistory: LOD Research Environment
 -   Text Encoding Initiative (TEI): digital editions and text technologies
 -   [Transkribus](../text-recognition/index.qmd#transkribus): automated text recognition

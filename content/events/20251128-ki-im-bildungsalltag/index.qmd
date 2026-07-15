@@ -13,7 +13,7 @@ author:
         department: "Digital Humanities"
         city: "Bern"
         country: "Switzerland"
-    role: "Organiser"
+    role: "Organizer"
 other-links:
   - text: "Download: KI-Referat-RogerMader_ger.pdf"
     href: "KI-Referat-RogerMader_ger.pdf"
