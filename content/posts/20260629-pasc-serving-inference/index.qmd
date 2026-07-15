@@ -1,7 +1,7 @@
 ---
 title: "Serving Inference at PASC 2026 in Bern"
 author: Digital Humanities
-date: 2026.06.29
+date: 2026-06-29
 image: pasc26-bern.jpg
 image-alt: "Aerial view of Bern, Switzerland, host city of PASC 2026 (© Mike Dotta)"
 categories:
