@@ -3,7 +3,7 @@ title: "Nicht nur Namen und Orte: Warum historische Annotation mehr kann (und so
 author:
   - name: "Ismail Prada Ziegler"
   - name: "Dominic Weber"
-date: 2026-02-26
+date: 2026.02.26
 categories: []
 format:
   html:

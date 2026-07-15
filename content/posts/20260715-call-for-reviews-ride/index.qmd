@@ -2,7 +2,7 @@
 title: "Call for Reviews for Scholarly Editions"
 subtitle: "RIDE — Review Journal for Scholarly Digital Editions and Resources: special issue on Swiss editions"
 author: Tobias Hodel
-date: 2026-07-15
+date: 2026.07.15
 categories:
 - Post
 other-links:

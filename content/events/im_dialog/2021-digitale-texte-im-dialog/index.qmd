@@ -1,8 +1,8 @@
 ---
 title: Digital Texts in Dialogue (2021)
 subtitle: "Workshop on digital text processing in the Humanities, with a special focus on Natural Language Processing (NLP)"
-event-date: "2021-10-20"
-date: "2021-10-20"
+event-date: "2021.10.20"
+date: "2021.10.20"
 categories:
   - Event
 location: "Main Building, University of Bern (Hochschulstrasse 4), Room 028"

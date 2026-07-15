@@ -1,7 +1,7 @@
 ---
 title: "Flow Final Conference"
-event-date: "2026-06-11"
-date: "2026-06-11"
+event-date: "2026.06.11"
+date: "2026.06.11"
 categories:
   []
 location: "University of Bern, Mittelstrasse"

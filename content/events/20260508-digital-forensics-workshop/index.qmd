@@ -1,8 +1,8 @@
 ---
 title: Digital Forensics in the Humanities
 subtitle: Workshop organized by the Bit Philology project team
-event-date: "2026-05-08"
-date: "2026-03-18"
+event-date: "2026.05.08"
+date: "2026.03.18"
 categories:
 - Event
 - Bit Philology

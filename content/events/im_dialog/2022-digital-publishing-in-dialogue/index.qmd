@@ -1,8 +1,8 @@
 ---
 title: "Digital Publishing in Dialogue (2022)"
 subtitle: "Event by Digital Humanities and Open Science (University Library), University of Bern"
-event-date: "2022-11-11"
-date: "2022-11-11"
+event-date: "2022.11.11"
+date: "2022.11.11"
 categories:
   - Event
 location: "PROGR, Waisenhausplatz 30, 3011 Bern (accessible; entrance at PROGR East)"

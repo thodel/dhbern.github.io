@@ -1,8 +1,8 @@
 ---
 title: "DH Center Opening"
 subtitle: "Opening of the Digital Humanities Center at the University of Bern"
-event-date: "2026-09-15"
-date: "2026-07-15"
+event-date: "2026.09.15"
+date: "2026.07.15"
 categories:
   - Event
 location: "Unitobler, University of Bern"

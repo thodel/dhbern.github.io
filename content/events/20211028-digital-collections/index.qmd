@@ -1,8 +1,8 @@
 ---
 title: "Digital collections: museum – research – mediation"
 subtitle: "Interdisciplinary exchange on digital art collections (online event)"
-event-date: "2021-10-28"
-date: "2021-10-28"
+event-date: "2021.10.28"
+date: "2021.10.28"
 categories:
   - Event
 location: "Online (Zoom); follow-up meeting at the University of Bern (24 Aug 2022)"

@@ -1,8 +1,8 @@
 ---
 title: Platforms in Dialogue (2025)
 subtitle: "A hands-on event by Digital Humanities and Open Science (University Library Bern) on digital platforms as core components of the digital ecosystem"
-event-date: "2025-12-10"
-date: "2025-12-10"
+event-date: "2025.12.10"
+date: "2025.12.10"
 categories:
 - Event
 location: "Dome Room (Kuppelraum), Main Building (H4), University of Bern"
