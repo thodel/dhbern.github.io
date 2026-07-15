@@ -22,4 +22,15 @@ We are pleased to announce the opening of the Digital Humanities Center at the U
 - **Start:** 15:15
 - **Location:** Unitobler, University of Bern
 
-The full program will be announced soon. Please check back for details.
+## Program
+
+| Time  | Session |
+| --- | --- |
+| 15:15 | Welcome to the "grand opening" |
+| 15:25 | Official opening by Nicolas Detering (President of the WB Kolleg) & Claus Beisbart (Dean of the Faculty of Humanities) |
+| 15:40 | "How everything started" |
+| 16:00 | A look at our projects — fruit and water; project pitches in the foyer (2 min. per project) |
+| 16:50 | "DH Bern from the outside" |
+| 17:10 | "Many Futures" by Elena Spadini |
+| 17:30 | "and so it starts" by Tobias Hodel |
+| 17:45 | Apéro riche and the opportunity to talk to DH & DSL people |
