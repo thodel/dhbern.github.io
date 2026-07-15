@@ -13,7 +13,7 @@ author:
         department: "Digital Humanities"
         city: "Bern"
         country: "Switzerland"
-    role: "Organiser"
+    role: "Organizer"
 other-links:
   - text: "Download: Biased_Data_Models_2022 PDF"
     href: "Biased_Data_Models_2022-final_ger.pdf"

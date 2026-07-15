@@ -13,19 +13,19 @@ author:
         department: "Digital Humanities"
         city: "Bern"
         country: "Switzerland"
-    role: "Organiser"
+    role: "Organizer"
 other-links:
   - text: "Download Program: DH_Informations-undKartendesign_HS22_ger.pdf"
     href: "DH_Informations-undKartendesign_HS22_ger.pdf"
 ---
 
-Basic skills in information and map design support critical reading of data visualisations and help present research clearly and convincingly.
+Basic skills in information and map design support critical reading of data visualizations and help present research clearly and convincingly.
 This workshop combines theoretical inputs with practical exercises, covering:
 - fundamentals of information design
 - working with geographic information systems (GIS) and cartographic design
 - concrete use cases and discussion
 Date & time: 28 October 2022, 09:15–16:45 (Bern)
-For the programme, flyer, and registration details, see the event website.
+For the program, flyer, and registration details, see the event website.
 
 ## Downloads
 - [Download DH_Informations-undKartendesign_HS22_ger.pdf](DH_Informations-undKartendesign_HS22_ger.pdf){download}

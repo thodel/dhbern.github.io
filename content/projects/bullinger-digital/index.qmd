@@ -12,4 +12,4 @@ In Kooperation mit der Universität Zürich ([Prof. Dr. Martin Volk)](https://ww
 
 Ziel ist die effiziente Unterstützung der Lesbarmachung der Handschriften der umfangreichen Briefkorrespondenz Bullingers. Informationen zum Stand des Projekts finden sich online: [bullinger-digital.ch](http://bullinger-digital.ch/).
 
-Das Projekt startet am 1. April 2021 und wird grosszügig unterstützt durch die [Hasler Stiftung](https://haslerstiftung.ch/).
+Das Projekt startete am 1. April 2021 und wurde grosszügig unterstützt durch die [Hasler Stiftung](https://haslerstiftung.ch/).

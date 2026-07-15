@@ -13,7 +13,7 @@ author:
         department: "Digital Humanities"
         city: "Bern"
         country: "Switzerland"
-    role: "Organiser"
+    role: "Organizer"
 other-links:
   - text: "Event website"
     href: "https://www.dh.unibe.ch/forschung/workshops_und_talks/rism__dh/index_ger.html"

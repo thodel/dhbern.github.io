@@ -13,7 +13,7 @@ author:
         department: "Digital Humanities"
         city: "Bern"
         country: "Switzerland"
-    role: "Organiser"
+    role: "Organizer"
 other-links:
   - text: "Download: Digitale_Sammlungen_Flyer.pdf"
     href: "Digitale_Sammlungen_Flyer.pdf"
@@ -23,8 +23,8 @@ other-links:
 This event fostered interdisciplinary exchange on digital art collections from the perspectives of museums, research, and mediation/outreach.
 The main event took place online on two afternoons:
 - 28–29 October 2021, 14:00–17:15 (online)
-A follow-up meeting (including the launch of a web forum) took place on 24 August 2022 at the University of Bern. The page continues to document the programme, inputs, and resources, and points to the longer-term web forum.
-For the full documentation, programme, and links, see the event website.
+A follow-up meeting (including the launch of a web forum) took place on 24 August 2022 at the University of Bern. The page continues to document the program, inputs, and resources, and points to the longer-term web forum.
+For the full documentation, program, and links, see the event website.
 
 ## Downloads
 - [Download Digitale_Sammlungen_Flyer.pdf](Digitale_Sammlungen_Flyer.pdf){download}

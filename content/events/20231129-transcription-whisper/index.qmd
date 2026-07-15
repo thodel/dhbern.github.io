@@ -13,7 +13,7 @@ author:
         department: "Digital Humanities"
         city: "Bern"
         country: "Switzerland"
-    role: "Organiser"
+    role: "Organizer"
 other-links:
   - text: "Download: Workshop_PosterDigi-Ling_HS23 PDF"
     href: "Workshop_PosterDigi-Ling_HS23_corr_ger.pdf"

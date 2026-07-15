@@ -1,7 +1,7 @@
 ---
 title: "Serving Inference at PASC 2026 in Bern"
 author: Digital Humanities
-date: 2026.06.29
+date: 2026-06-29
 image: pasc26-bern.jpg
 image-alt: "Aerial view of Bern, Switzerland, host city of PASC 2026 (© Mike Dotta)"
 categories:
@@ -24,7 +24,7 @@ other-links:
     href: mailto:digitalhumanities@unibe.ch
 ---
 
-The Digital Humanities, together with the [Data Science Lab](https://www.dsl.unibe.ch/), are at [PASC 2026](https://pasc-conference.org/editions/pasc26/) — the Platform for Advanced Scientific Computing Conference, hosted at the University of Bern from **29 June to 1 July 2026**. We are organising the minisymposium **"Serving Inference: Leveraging HPCs in the Age of Generative AI"**, bringing together institutions that are actively building infrastructure to serve generative AI on high-performance computing systems.
+The Digital Humanities, together with the [Data Science Lab](https://www.dsl.unibe.ch/), are at [PASC 2026](https://pasc-conference.org/editions/pasc26/) — the Platform for Advanced Scientific Computing Conference, hosted at the University of Bern from **29 June to 1 July 2026**. We are organizing the minisymposium **"Serving Inference: Leveraging HPCs in the Age of Generative AI"**, bringing together institutions that are actively building infrastructure to serve generative AI on high-performance computing systems.
 
 ![](PASC26-logo.png){fig-alt="PASC26 — Bern, Switzerland, 29 June–1 July 2026" width="60%"}
 

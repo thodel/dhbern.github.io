@@ -1,0 +1,65 @@
+---
+title: "Call for Reviews for Scholarly Editions"
+subtitle: "RIDE — Review Journal for Scholarly Digital Editions and Resources: special issue on Swiss editions"
+author: Tobias Hodel
+date: 2026-07-15
+categories:
+- Post
+other-links:
+  - text: Full call for reviews
+    icon: globe
+    href: https://ride.i-d-e.de/reviewers/call-for-reviews/swiss-editions-en/
+  - text: Contact us
+    icon: envelope
+    href: mailto:digitalhumanities@unibe.ch
+---
+
+Dear Colleagues
+
+For an upcoming issue of RIDE (the Review Journal for Scholarly Digital Editions and Resources), we are looking for reviews.
+
+We welcome reviews of digital scholarly editions across all disciplines. In particular, we encourage reviews of:
+
+- Editions developed by Swiss institutions or research teams, regardless of the subject matter or language.
+- Editions focusing on Swiss-related materials, such as historical documents, literary works, or data about Switzerland's regions and cultural heritage.
+- Editions centering on figures with ties to Switzerland, including authors, scholars, or historical persons who were born, lived, or worked in Switzerland.
+
+In addition to the general criteria for reviewing digital editions as outlined by the IDE's guidelines, reviewers should consider aspects especially pertinent to these editions – for example, how the edition handles multilingual content or multiple scripts (if applicable), the integration with Swiss research infrastructures (such as national libraries, archives or data infrastructures), and any features that make the edition particularly valuable. Reviews should evaluate the depth and quality of the scholarly work (transcription, annotation, commentary, etc.), the technological implementation, and the resource's user experience.
+
+The three most impressive reviews will be awarded a RIDE Award. First place: CHF 300, Second place: CHF 200, Third place: CHF 100.
+
+For the full call, see here: [ride.i-d-e.de/reviewers/call-for-reviews/swiss-editions-en](https://ride.i-d-e.de/reviewers/call-for-reviews/swiss-editions-en/).
+
+Best wishes / herzliche Grüsse, also in the name of my co-guest editors Elena Spadini and Beat Immenhauser,
+
+Tobias Hodel
+
+## Suggested editions for review
+
+Below is a non-exhaustive, alphabetically sorted list of digital scholarly editions that could be reviewed for this special issue. These suggestions include editions produced in Switzerland or closely related to Swiss history and culture. (Strikethrough indicates projects that have already been assigned to a reviewer and thus cannot be selected.)
+
+- [Ajax Multi-Commentary](https://mromanello.github.io/ajax-multi-commentary/) – A multi-commentary platform about Sophocles' Ajax
+- [Anton Webern Gesamtausgabe](https://edition.anton-webern.ch/home) – A critical historical edition of the works of the composer and conductor Anton Webern.
+- [Bernoulli-Euler Online (BEOL)](https://bebb.unibas.ch/) – Digital edition and database of the works and correspondence of the Bernoulli family and Leonhard Euler (University of Basel).
+- [Bullinger Digital](https://www.bullinger-digital.ch/) – Online edition of the correspondence of Heinrich Bullinger (1504–1575), a Swiss Reformation leader.
+- [BurckhardtSource](https://burckhardtsource.org/) – Semantic digital edition of the European correspondence to Swiss art historian Jacob Burckhardt.
+- [Correspondance de Jean-Alphonse Turrettini 1671-1737](https://humanities.unige.ch/turrettini/) – Turrettini's letters, a major source for early modern European Protestant history.
+- [Denis de Rougemont, l'intégrale en ligne](https://www.unige.ch/rougemont/) – A retrospective, in texts and images, of the stages of a life and an intellectual journey.
+- [Der späte Nietzsche](https://nietzsche.philhist.unibas.ch/) – A critical edition focusing on Nietzsche's late writings.
+- [Desenrollando el cordel](https://desenrollandoelcordel.unige.ch/inicio.html) – The University of Geneva's collection of Spanish chapbooks.
+- [Digital Statius: the Achilleid](https://achilleid.unige.ch/verse) – A critical edition of the Achilleid.
+- [Digitale Gesamtausgabe Jeremias Gotthelf](https://gotthelf-digital.ch/) – Digital historical-critical edition of the works and letters of Jeremias Gotthelf (Albert Bitzius, 1797–1854).
+- [Diplomatic Documents of Switzerland (Dodis)](https://www.dodis.ch/de) – Online database and edition of key documents on Swiss foreign policy since 1848.
+- [Gottfried Semper – Der Stil](https://www.semper-edition.ch/) – Digital edition of Der Stil by Gottfried Semper (1803–1879), with scholarly commentary (ETH Zurich).
+- [Grammateus](https://grammateus.unige.ch/home) – A research environment on Greek documentary papyri from Egypt.
+- [Gustave Roud. Textes & Archives](https://roud.unil.ch) – A complement to the paper editions of the complete works of Gustave Roud.
+- [Hermann Burger: Lokalbericht](https://www.lokalbericht.unibe.ch/) – Digital edition of Lokalbericht, a literary work by Swiss author Hermann Burger (1942–1989).
+- [Johann Georg Sulzer – Johann Jakob Bodmer: Briefwechsel](https://www.sulzer-briefe.uni-halle.de/sb/) – Online edition of the correspondence between J. G. Sulzer and J. J. Bodmer (18th-century intellectuals, Bodmer based in Zurich).
+- [Kritische Robert Walser-Ausgabe (Electronic Edition)](https://kwae.kritische-walser-ausgabe.ch/kwae.html) – The digital component of the critical edition of Robert Walser's works, including transcriptions of Walser's "Mikrogramme" (microscripts).
+- [Nachlass Karl Barth](https://kbga.karl-barth.ch/) – The scholarly edition of the oeuvres of the theologian Karl Barth (1886–1968).
+- [Johann Caspar Lavater: Historisch-kritische Edition ausgewählter Briefwechsel (JCLB)](https://www.jclavater-briefwechsel.ch/) – Online edition of the correspondence of Lavater.
+- [Lumières](https://lumieres.unil.ch/) – Correspondence of societies and persons involved in the Swiss/Romandie Enlightenment.
+- [Rousseau Online](https://www.rousseauonline.ch/) – Full-text digital edition of Jean-Jacques Rousseau's collected works in their first Geneva edition (1780–1789).
+- [Digitized Letters to Eugenio Coseriu](https://coseriu.uzh.ch) – Transcribed letters received by the linguist Eugenio Coseriu from his colleagues and friends in the 1940s, 1950s and 1960s.
+- [Schweizerische Rechtsquellen / Swiss Law Sources](https://editio.ssrq-online.ch/) – Historic edition of law sources from the Middle Ages to 1798.
+- [To the reader](https://earlymodernprefaces.unige.ch) – The English prefaces to readers in books printed between 1475 and 1623.

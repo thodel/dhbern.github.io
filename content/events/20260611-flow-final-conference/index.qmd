@@ -7,9 +7,9 @@ categories:
 location: "University of Bern, Mittelstrasse"
 author:
   - name: "Serena Tolino"
-    role: "Organiser"
+    role: "Organizer"
   - name: "Tobias Hodel"
-    role: "Organiser"
+    role: "Organizer"
 format:
   html:
     include-in-header:
@@ -17,4 +17,4 @@ format:
         <meta http-equiv="refresh" content="0; url=/content/projects/flow/20260511-flow-conference/">
 ---
 
-This page redirects to the conference site. If you are not redirected, visit: [The FLOW Conference](/content/projects/flow/20260511-flow-conference/).
+This page redirects to the conference site. If you are not redirected, visit: [The Flow Conference](/content/projects/flow/20260511-flow-conference/).

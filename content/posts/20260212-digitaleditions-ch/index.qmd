@@ -1,7 +1,7 @@
 ---
 title: "digitaleditions.ch: A hub for scholarly editions"
 author: Digital Humanities
-date: 2026.02.12
+date: 2026-02-12
 image: logo.png
 image-alt: "Status dashboard for digitaleditions.ch"
 categories:

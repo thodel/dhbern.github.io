@@ -13,7 +13,7 @@ author:
     role: author
 ---
 
-Texts are at the heart of much humanities research. Their digital preparation and processing has therefore become a broad and intensively developed field within the Digital Humanities. Since the introduction of HTML and the World Wide Web, Humanities scholars have been working on the annotation, preparation, and visualisation of textual data in digital environments.
+Texts are at the heart of much humanities research. Their digital preparation and processing has therefore become a broad and intensively developed field within the Digital Humanities. Since the introduction of HTML and the World Wide Web, Humanities scholars have been working on the annotation, preparation, and visualization of textual data in digital environments.
 
 Today, machine-learning methods in **Natural Language Processing (NLP)** add a new dimension: they enable the extraction of information and the quantitative comparison of texts. In this workshop, we explored current debates and methods with a particular focus on applications for participants’ own research questions. Short expert inputs alternated with hands-on sessions.
 
@@ -25,11 +25,11 @@ Today, machine-learning methods in **Natural Language Processing (NLP)** add a n
 - Slides (Joel Niklaus): <https://docs.google.com/presentation/d/1Q2Dy8MQk0j4_hOFOTL3fN8WbCD8WCtGH2j8D-Sf_ubc/edit?usp=sharing>
 - Poster (PDF): <https://www.dh.unibe.ch/unibe/portal/fak_historisch/fsuf/d_dh/content/e330302/e1404697/e1126780/e1126786/2021_Digitale-Texte-im-Dialog_Poster_ger.pdf>
 
-## Programme
+## Program
 
 | Time | Session | Presenter(s) |
 |---|---|---|
-| 09:30–10:00 | Welcome, introduction, and participant round | Organisers |
+| 09:30–10:00 | Welcome, introduction, and participant round | Organizers |
 | 10:00–12:00 | From the digital archive to the “Dynarchive” | Kurt Fendt |
 | 12:00–13:30 | Lunch break |  |
 | 13:30–14:00 | Swiss-Court-Predict: A Multilingual Legal Judgment Prediction Benchmark | Joel Niklaus |

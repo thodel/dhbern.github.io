@@ -8,7 +8,7 @@ author:
 categories: [Services]
 ---
 
-*nodegoat Go* is a virtual research environment for modelling, visualising, and analysing heterogeneous data. Researchers and students at the University of Bern can apply for **free, institution-hosted domains** and carry out projects in the humanities, social, and natural sciences.
+*nodegoat Go* is a virtual research environment for modeling, visualizing, and analyzing heterogeneous data. Researchers and students at the University of Bern can apply for **free, institution-hosted domains** and carry out projects in the humanities, social, and natural sciences.
 
 -   **Currently active projects:** 113\
 -   **Researchers on the platform:** 186
@@ -16,8 +16,8 @@ categories: [Services]
 ## Services
 
 -   Provision of a personal or group research environment\
--   Support with data entry, visualisation, and network analysis\
--   Organisation of workshops and training on nodegoat (introductory & advanced)\
+-   Support with data entry, visualization, and network analysis\
+-   Organization of workshops and training on nodegoat (introductory & advanced)\
 -   **Application support:** help in drafting data models and setting up collaborative workflows
 
 ## How to apply for a domain/account
@@ -32,7 +32,7 @@ The Faculty of Humanities maintains a licensed installation of nodegoat Go. **St
 -   **Archaeological typologies** – classifying objects and running similarity or network analyses to test cultural hypotheses.\
 -   **Data-publication pipelines** – exporting curated datasets as JSON/CSV and exposing an API or interactive viewer for the public.
 
-These scenarios leverage nodegoat’s built-in data modelling, temporal–spatial visualisation, and network-analysis tools as demonstrated in UniBE projects such as *Forced Academic Migration*, *Reading the Beach*, and *RAG Online*.
+These scenarios leverage nodegoat’s built-in data modeling, temporal–spatial visualization, and network-analysis tools as demonstrated in UniBE projects such as *Forced Academic Migration*, *Reading the Beach*, and *RAG Online*.
 
 ## Further resources
 
