@@ -3,6 +3,8 @@ title: "Call for Reviews for Scholarly Editions"
 subtitle: "RIDE — Review Journal for Scholarly Digital Editions and Resources: special issue on Swiss editions"
 author: Tobias Hodel
 date: 2026.07.15
+image: ride-logo.png
+image-alt: "Logo of RIDE, the IDE Review Journal for Scholarly Digital Editions and Resources"
 categories:
 - Post
 other-links:
@@ -13,6 +15,8 @@ other-links:
     icon: envelope
     href: mailto:digitalhumanities@unibe.ch
 ---
+
+![](ride-logo.png){fig-alt="Logo of RIDE, the IDE Review Journal for Scholarly Digital Editions and Resources" width="220"}
 
 Dear Colleagues
 
