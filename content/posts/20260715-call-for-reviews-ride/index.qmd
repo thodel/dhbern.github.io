@@ -44,7 +44,7 @@ Below is a non-exhaustive, alphabetically sorted list of digital scholarly editi
 - [Bullinger Digital](https://www.bullinger-digital.ch/) – Online edition of the correspondence of Heinrich Bullinger (1504–1575), a Swiss Reformation leader.
 - [BurckhardtSource](https://burckhardtsource.org/) – Semantic digital edition of the European correspondence to Swiss art historian Jacob Burckhardt.
 - [Correspondance de Jean-Alphonse Turrettini 1671-1737](https://humanities.unige.ch/turrettini/) – Turrettini's letters, a major source for early modern European Protestant history.
-- [Denis de Rougemont, l'intégrale en ligne](https://www.unige.ch/rougemont/) – Retour, en textes et en images, sur les étapes d'une vie et d'un parcours intellectuel.
+- [Denis de Rougemont, l'intégrale en ligne](https://www.unige.ch/rougemont/) – A retrospective, in texts and images, of the stages of a life and an intellectual journey.
 - [Der späte Nietzsche](https://nietzsche.philhist.unibas.ch/) – A critical edition focusing on Nietzsche's late writings.
 - [Desenrollando el cordel](https://desenrollandoelcordel.unige.ch/inicio.html) – The University of Geneva's collection of Spanish chapbooks.
 - [Digital Statius: the Achilleid](https://achilleid.unige.ch/verse) – A critical edition of the Achilleid.
