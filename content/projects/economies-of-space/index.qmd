@@ -17,6 +17,7 @@ The project uses the example of Basel to research the management of urban real e
 
 ## Links
 
+- [Basler Liegenschaften 1400-1700 Interaktiv: dhbern.github.io/basler-liegenschaften-interaktiv](https://dhbern.github.io/basler-liegenschaften-interaktiv)
 - [UNIBAS: Ökonomien des Raums](https://dg.philhist.unibas.ch/de/bereiche/mittelalter/forschung/oekonomien-des-raums/)
 - [history-unibas GitHub repositories](https://github.com/orgs/history-unibas/repositories?type=source)
 
