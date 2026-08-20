@@ -17,15 +17,19 @@ The project uses the example of Basel to research the management of urban real e
 
 ## Links
 
-- [Basler Liegenschaften 1400-1700 Interaktiv: dhbern.github.io/basler-liegenschaften-interaktiv](https://dhbern.github.io/basler-liegenschaften-interaktiv)
+- [Basler Liegenschaften 1400-1700 Interaktiv](https://dhbern.github.io/basler-liegenschaften-interaktiv)
 - [UNIBAS: Ökonomien des Raums](https://dg.philhist.unibas.ch/de/bereiche/mittelalter/forschung/oekonomien-des-raums/)
 - [history-unibas GitHub repositories](https://github.com/orgs/history-unibas/repositories?type=source)
 
 ## Publications
 
-- Burkart, Lucas, Tobias Hodel, Benjamin Hitz, et al. "Economies of Space: Opening up Historical Finding Aids." Paper presented at *Digital History Switzerland 2024 “Historical Research, Digital Literacy and Algorithmic Criticism” (DigiHistCH24)*, September 12, 2024. https://digihistch24.github.io/submissions/poster/466/.
-- Hitz, Benjamin, and Tobias Hodel. "Zeit und Raum." *Das Mittelalter. Perspektiven mediävistischer Forschung*, June 18, 2025, 148–170. https://doi.org/10.17885/HEIUP.MIAL.2025.1.25126.
-- Hitz, Benjamin, Ismail Prada Ziegler, and Aline Vonwiller. "From Record Cards to the Dynamics of Real Estate Transactions: Working with Automatically Extracted Information from Basel's Historical Land Register, 1400–1700." Edited by Jérôme Baudry, Lucas Burkart, Béatrice Joyeux-Prunel, et al. 2024. https://digihistch24.github.io/submissions/462/.
+- Burkart, Lucas, Tobias Hodel, Benjamin Hitz, et al. "Economies of Space: Opening up Historical Finding Aids." Paper presented at *Digital History Switzerland 2024 “Historical Research, Digital Literacy and Algorithmic Criticism” (DigiHistCH24)*, September 12, 2024. <https://digihistch24.github.io/submissions/poster/466/>.
+- Hitz, Benjamin, and Tobias Hodel. "Zeit und Raum." *Das Mittelalter. Perspektiven mediävistischer Forschung*, June 18, 2025, 148–170. <https://doi.org/10.17885/HEIUP.MIAL.2025.1.25126>.
+- Hitz, Benjamin, Ismail Prada Ziegler, and Aline Vonwiller. "From Record Cards to the Dynamics of Real Estate Transactions: Working with Automatically Extracted Information from Basel's Historical Land Register, 1400–1700." Edited by Jérôme Baudry, Lucas Burkart, Béatrice Joyeux-Prunel, et al. 2024. <https://digihistch24.github.io/submissions/462/>.
 - Prada Ziegler, Ismail. "Exploration of Event Extraction Techniques in Late Medieval and Early Modern Administrative Records." *Proceedings of the Computational Humanities Research Conference 2024* (2024): 761–71. https://ceur-ws.org/Vol-3834/paper79.pdf.
-- Prada Ziegler, Ismail, Benjamin Hitz, and Katrin Fuchs. "The Basel Land Records Ground Truth: An Annotated Dataset for Information Extraction on German-Language Administrative Records." *Journal of Open Humanities Data* 11, no. 1 (2025). https://doi.org/10.5334/johd.387.
-- Prada Ziegler, Ismail. "What's in an Entity? Exploring Nested Named Entity Recognition in the Historical Land Register of Basel (1400–1700)." Paper presented at *Digital Humanities Benelux 2024 Conference*, June 6, 2024. https://doi.org/10.5281/ZENODO.11500543.
+- Prada Ziegler, Ismail, Benjamin Hitz, and Katrin Fuchs. "The Basel Land Records Ground Truth: An Annotated Dataset for Information Extraction on German-Language Administrative Records." *Journal of Open Humanities Data* 11, no. 1 (2025). <https://doi.org/10.5334/johd.387>.
+- Prada Ziegler, Ismail. "What's in an Entity? Exploring Nested Named Entity Recognition in the Historical Land Register of Basel (1400–1700)." Paper presented at *Digital Humanities Benelux 2024 Conference*, June 6, 2024. <https://doi.org/10.5281/ZENODO.11500543>.
+
+## Preprint
+
+- Prada Ziegler, Ismail. "Entity Extraction in Premodern German Administrative Documents: Accuracy and Cost in the Age of Generative AI." *preprint*. [PDF](ner_prada_ziegler.pdf)
