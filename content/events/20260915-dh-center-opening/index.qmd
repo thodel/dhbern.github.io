@@ -26,11 +26,11 @@ We are pleased to announce the opening of the Digital Humanities Center at the U
 
 | Time  | Session |
 | --- | --- |
-| 15:15 | Welcome to the "grand opening" |
+| 15:15 | Welcome to the grand opening |
 | 15:25 | Official opening by Nicolas Detering (President of the WB Kolleg) & Claus Beisbart (Dean of the Faculty of Humanities) |
-| 15:40 | "How everything started" |
+| 15:40 | "How everything started" – Prof. Dr. Tara Andrews (University of Wien)|
 | 16:00 | A look at our projects — fruit and water; project pitches in the foyer (2 min. per project) |
-| 16:50 | "DH Bern from the outside" |
-| 17:10 | "Many Futures" by Elena Spadini |
-| 17:30 | "and so it starts" by Tobias Hodel |
-| 17:45 | Apéro riche and the opportunity to talk to DH & DSL people |
+| 16:50 | "DH Bern from the outside" – Inputs from the Digital Humanities in Genève, Lausanne, and Basel |
+| 17:10 | "Many Futures" – Prof. Dr. Elena Spadini |
+| 17:30 | "Meanings of a Center" by Prof. Dr. Tobias Hodel |
+| 17:45 | Apéro riche and the opportunity to talk to DH, DSL, and Open Science people |
