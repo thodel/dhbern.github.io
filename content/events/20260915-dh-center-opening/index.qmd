@@ -5,7 +5,7 @@ event-date: "2026.09.15"
 date: "2026.07.15"
 categories:
   - Event
-location: "Unitobler, University of Bern"
+location: "Unitobler, F022 and Foyer, University of Bern"
 author:
   - name: "Digital Humanities, University of Bern"
     affiliations:
@@ -18,19 +18,23 @@ author:
 
 We are pleased to announce the opening of the Digital Humanities Center at the University of Bern.
 
+A centre is not built alone. What we are opening on 15 September has grown over many years of collaboration: with libraries, archives and museums, with research projects in Switzerland and abroad, with colleagues across the disciplines, and with everyone curious enough to try digital methods with us. Much of what you will see that afternoon exists because of these cooperations. We would like to thank you for them and raise a glass with you.
+
+The DHC remains firmly anchored in the Walter Benjamin Kolleg and will continue to be a vital part of it. This is also where our study programmes are at home: the PhD programme in Digital Humanities as well as the Master Major (90 ECTS) and the Master Minor (30 ECTS) in Digital Humanities. If you would like to know more – for yourself or for students you supervise – there will be plenty of opportunity to talk on the day.
+
 - **Date:** 15 September 2026
 - **Start:** 15:15
-- **Location:** Unitobler, University of Bern
+- **Location:** Unitobler, Lerchenweg 36, F022, University of Bern
 
 ## Program
 
 | Time  | Session |
 | --- | --- |
-| 15:15 | Welcome to the "grand opening" |
+| 15:15 | Welcome to the grand opening |
 | 15:25 | Official opening by Nicolas Detering (President of the WB Kolleg) & Claus Beisbart (Dean of the Faculty of Humanities) |
-| 15:40 | "How everything started" |
+| 15:40 | "How everything started" – Prof. Dr. Tara Andrews (University of Wien)|
 | 16:00 | A look at our projects — fruit and water; project pitches in the foyer (2 min. per project) |
-| 16:50 | "DH Bern from the outside" |
-| 17:10 | "Many Futures" by Elena Spadini |
-| 17:30 | "and so it starts" by Tobias Hodel |
-| 17:45 | Apéro riche and the opportunity to talk to DH & DSL people |
+| 16:50 | "DH Bern from the outside" – Inputs from the Digital Humanities in Genève, Lausanne, and Basel |
+| 17:10 | "Many Futures" – Prof. Dr. Elena Spadini |
+| 17:30 | "Meanings of a Center" by Prof. Dr. Tobias Hodel |
+| 17:45 | Apéro riche and the opportunity to talk to DH, DSL, and Open Science people |
